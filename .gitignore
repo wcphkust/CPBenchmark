@@ -1,2 +1,10 @@
 source/*
 
+
+compiled-binary-and-bc/mariadbd
+compiled-binary-and-bc/mariadbd.bc
+compiled-binary-and-bc/ffmpeg_g.bc
+lifter-source_zip/mariaDB.tar.gz
+compiled-binary-and-bc/mysqld
+compiled-binary-and-bc/mysqld.bc
+
