@@ -1,0 +1,3644 @@
+{
+    "Function MetaData": [
+        {
+            "FunctionName": "setnonblocking",
+            "FirstLineNumber": 155,
+            "LastLineNumber": 161,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "main",
+            "FirstLineNumber": 155,
+            "LastLineNumber": 2028,
+            "NodeBaseNum": 8594,
+            "ParentNodeNum": 10159
+        },
+        {
+            "FunctionName": "aead_cipher_ctx_set_key",
+            "FirstLineNumber": 285,
+            "LastLineNumber": 321,
+            "NodeBaseNum": 315,
+            "ParentNodeNum": 263
+        },
+        {
+            "FunctionName": "aead_cipher_encrypt",
+            "FirstLineNumber": 157,
+            "LastLineNumber": 202,
+            "NodeBaseNum": 195,
+            "ParentNodeNum": 187
+        },
+        {
+            "FunctionName": "aead_cipher_decrypt",
+            "FirstLineNumber": 208,
+            "LastLineNumber": 255,
+            "NodeBaseNum": 197,
+            "ParentNodeNum": 192
+        },
+        {
+            "FunctionName": "cipher_nonce_size",
+            "FirstLineNumber": 172,
+            "LastLineNumber": 178,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cipher_key_size",
+            "FirstLineNumber": 181,
+            "LastLineNumber": 196,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 31
+        },
+        {
+            "FunctionName": "stream_get_cipher_type",
+            "FirstLineNumber": 199,
+            "LastLineNumber": 222,
+            "NodeBaseNum": 251,
+            "ParentNodeNum": 213
+        },
+        {
+            "FunctionName": "stream_cipher_ctx_init",
+            "FirstLineNumber": 225,
+            "LastLineNumber": 251,
+            "NodeBaseNum": 345,
+            "ParentNodeNum": 271
+        },
+        {
+            "FunctionName": "stream_ctx_release",
+            "FirstLineNumber": 254,
+            "LastLineNumber": 268,
+            "NodeBaseNum": 107,
+            "ParentNodeNum": 81
+        },
+        {
+            "FunctionName": "cipher_ctx_set_nonce",
+            "FirstLineNumber": 271,
+            "LastLineNumber": 319,
+            "NodeBaseNum": 405,
+            "ParentNodeNum": 360
+        },
+        {
+            "FunctionName": "stream_encrypt_all",
+            "FirstLineNumber": 161,
+            "LastLineNumber": 630,
+            "NodeBaseNum": 639,
+            "ParentNodeNum": 598
+        },
+        {
+            "FunctionName": "stream_ctx_init",
+            "FirstLineNumber": 623,
+            "LastLineNumber": 632,
+            "NodeBaseNum": 185,
+            "ParentNodeNum": 119
+        },
+        {
+            "FunctionName": "stream_encrypt",
+            "FirstLineNumber": 161,
+            "LastLineNumber": 451,
+            "NodeBaseNum": 805,
+            "ParentNodeNum": 862
+        },
+        {
+            "FunctionName": "stream_decrypt_all",
+            "FirstLineNumber": 161,
+            "LastLineNumber": 627,
+            "NodeBaseNum": 827,
+            "ParentNodeNum": 742
+        },
+        {
+            "FunctionName": "stream_decrypt",
+            "FirstLineNumber": 161,
+            "LastLineNumber": 620,
+            "NodeBaseNum": 1375,
+            "ParentNodeNum": 1436
+        },
+        {
+            "FunctionName": "stream_key_init",
+            "FirstLineNumber": 172,
+            "LastLineNumber": 676,
+            "NodeBaseNum": 698,
+            "ParentNodeNum": 682
+        },
+        {
+            "FunctionName": "stream_init",
+            "FirstLineNumber": 679,
+            "LastLineNumber": 697,
+            "NodeBaseNum": 257,
+            "ParentNodeNum": 217
+        },
+        {
+            "FunctionName": "ppbloom_init",
+            "FirstLineNumber": 40,
+            "LastLineNumber": 60,
+            "NodeBaseNum": 177,
+            "ParentNodeNum": 128
+        },
+        {
+            "FunctionName": "ppbloom_check",
+            "FirstLineNumber": 63,
+            "LastLineNumber": 76,
+            "NodeBaseNum": 97,
+            "ParentNodeNum": 61
+        },
+        {
+            "FunctionName": "ppbloom_add",
+            "FirstLineNumber": 79,
+            "LastLineNumber": 95,
+            "NodeBaseNum": 140,
+            "ParentNodeNum": 115
+        },
+        {
+            "FunctionName": "ppbloom_free",
+            "FirstLineNumber": 100,
+            "LastLineNumber": 102,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 37
+        },
+        {
+            "FunctionName": "base64_decode",
+            "FirstLineNumber": 51,
+            "LastLineNumber": 70,
+            "NodeBaseNum": 290,
+            "ParentNodeNum": 339
+        },
+        {
+            "FunctionName": "base64_encode",
+            "FirstLineNumber": 78,
+            "LastLineNumber": 106,
+            "NodeBaseNum": 294,
+            "ParentNodeNum": 346
+        },
+        {
+            "FunctionName": "start_plugin",
+            "FirstLineNumber": 101,
+            "LastLineNumber": 300,
+            "NodeBaseNum": 1931,
+            "ParentNodeNum": 1416
+        },
+        {
+            "FunctionName": "get_local_port",
+            "FirstLineNumber": 305,
+            "LastLineNumber": 330,
+            "NodeBaseNum": 77,
+            "ParentNodeNum": 62
+        },
+        {
+            "FunctionName": "stop_plugin",
+            "FirstLineNumber": 335,
+            "LastLineNumber": 344,
+            "NodeBaseNum": 373,
+            "ParentNodeNum": 268
+        },
+        {
+            "FunctionName": "is_plugin_running",
+            "FirstLineNumber": 349,
+            "LastLineNumber": 353,
+            "NodeBaseNum": 49,
+            "ParentNodeNum": 31
+        },
+        {
+            "FunctionName": "plugin_log__free",
+            "FirstLineNumber": 83,
+            "LastLineNumber": 85,
+            "NodeBaseNum": 24,
+            "ParentNodeNum": 11
+        },
+        {
+            "FunctionName": "plugin_log__eof",
+            "FirstLineNumber": 75,
+            "LastLineNumber": 79,
+            "NodeBaseNum": 26,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "plugin_log__data",
+            "FirstLineNumber": 60,
+            "LastLineNumber": 72,
+            "NodeBaseNum": 185,
+            "ParentNodeNum": 133
+        },
+        {
+            "FunctionName": "new_rule",
+            "FirstLineNumber": 43,
+            "LastLineNumber": 52,
+            "NodeBaseNum": 85,
+            "ParentNodeNum": 53
+        },
+        {
+            "FunctionName": "accept_rule_arg",
+            "FirstLineNumber": 55,
+            "LastLineNumber": 69,
+            "NodeBaseNum": 179,
+            "ParentNodeNum": 131
+        },
+        {
+            "FunctionName": "add_rule",
+            "FirstLineNumber": 72,
+            "LastLineNumber": 75,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 34
+        },
+        {
+            "FunctionName": "init_rule",
+            "FirstLineNumber": 78,
+            "LastLineNumber": 94,
+            "NodeBaseNum": 162,
+            "ParentNodeNum": 122
+        },
+        {
+            "FunctionName": "lookup_rule",
+            "FirstLineNumber": 97,
+            "LastLineNumber": 114,
+            "NodeBaseNum": 115,
+            "ParentNodeNum": 105
+        },
+        {
+            "FunctionName": "remove_rule",
+            "FirstLineNumber": 117,
+            "LastLineNumber": 133,
+            "NodeBaseNum": 92,
+            "ParentNodeNum": 68
+        },
+        {
+            "FunctionName": "trimwhitespace",
+            "FirstLineNumber": 78,
+            "LastLineNumber": 98,
+            "NodeBaseNum": 200,
+            "ParentNodeNum": 227
+        },
+        {
+            "FunctionName": "init_acl",
+            "FirstLineNumber": 57,
+            "LastLineNumber": 363,
+            "NodeBaseNum": 2066,
+            "ParentNodeNum": 2166
+        },
+        {
+            "FunctionName": "free_rules",
+            "FirstLineNumber": 229,
+            "LastLineNumber": 236,
+            "NodeBaseNum": 118,
+            "ParentNodeNum": 104
+        },
+        {
+            "FunctionName": "free_acl",
+            "FirstLineNumber": 229,
+            "LastLineNumber": 248,
+            "NodeBaseNum": 431,
+            "ParentNodeNum": 362
+        },
+        {
+            "FunctionName": "get_acl_mode",
+            "FirstLineNumber": 253,
+            "LastLineNumber": 253,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_ipv4_equal_",
+            "FirstLineNumber": 112,
+            "LastLineNumber": 114,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 27
+        },
+        {
+            "FunctionName": "cork_ipv4_to_raw_string",
+            "FirstLineNumber": 118,
+            "LastLineNumber": 122,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 56
+        },
+        {
+            "FunctionName": "cork_ipv4_is_valid_network",
+            "FirstLineNumber": 125,
+            "LastLineNumber": 140,
+            "NodeBaseNum": 105,
+            "ParentNodeNum": 97
+        },
+        {
+            "FunctionName": "cork_ipv6_init",
+            "FirstLineNumber": 145,
+            "LastLineNumber": 340,
+            "NodeBaseNum": 1849,
+            "ParentNodeNum": 2239
+        },
+        {
+            "FunctionName": "cork_ipv6_equal_",
+            "FirstLineNumber": 343,
+            "LastLineNumber": 345,
+            "NodeBaseNum": 71,
+            "ParentNodeNum": 55
+        },
+        {
+            "FunctionName": "cork_ipv6_to_raw_string",
+            "FirstLineNumber": 352,
+            "LastLineNumber": 430,
+            "NodeBaseNum": 1076,
+            "ParentNodeNum": 1313
+        },
+        {
+            "FunctionName": "cork_ipv6_is_valid_network",
+            "FirstLineNumber": 433,
+            "LastLineNumber": 457,
+            "NodeBaseNum": 468,
+            "ParentNodeNum": 503
+        },
+        {
+            "FunctionName": "cork_ip_from_ipv4_",
+            "FirstLineNumber": 463,
+            "LastLineNumber": 466,
+            "NodeBaseNum": 41,
+            "ParentNodeNum": 23
+        },
+        {
+            "FunctionName": "cork_ip_from_ipv6_",
+            "FirstLineNumber": 469,
+            "LastLineNumber": 472,
+            "NodeBaseNum": 41,
+            "ParentNodeNum": 23
+        },
+        {
+            "FunctionName": "acl_match_host",
+            "FirstLineNumber": 262,
+            "LastLineNumber": 290,
+            "NodeBaseNum": 444,
+            "ParentNodeNum": 367
+        },
+        {
+            "FunctionName": "acl_add_ip",
+            "FirstLineNumber": 293,
+            "LastLineNumber": 308,
+            "NodeBaseNum": 387,
+            "ParentNodeNum": 294
+        },
+        {
+            "FunctionName": "acl_remove_ip",
+            "FirstLineNumber": 311,
+            "LastLineNumber": 326,
+            "NodeBaseNum": 387,
+            "ParentNodeNum": 294
+        },
+        {
+            "FunctionName": "outbound_block_match_host",
+            "FirstLineNumber": 333,
+            "LastLineNumber": 355,
+            "NodeBaseNum": 352,
+            "ParentNodeNum": 291
+        },
+        {
+            "FunctionName": "bloom_init_size",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 83,
+            "NodeBaseNum": 78,
+            "ParentNodeNum": 45
+        },
+        {
+            "FunctionName": "bloom_init",
+            "FirstLineNumber": 87,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 185,
+            "ParentNodeNum": 174
+        },
+        {
+            "FunctionName": "bloom_check",
+            "FirstLineNumber": 123,
+            "LastLineNumber": 125,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 34
+        },
+        {
+            "FunctionName": "bloom_add",
+            "FirstLineNumber": 129,
+            "LastLineNumber": 131,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 34
+        },
+        {
+            "FunctionName": "bloom_print",
+            "FirstLineNumber": 135,
+            "LastLineNumber": 144,
+            "NodeBaseNum": 82,
+            "ParentNodeNum": 49
+        },
+        {
+            "FunctionName": "bloom_free",
+            "FirstLineNumber": 147,
+            "LastLineNumber": 153,
+            "NodeBaseNum": 47,
+            "ParentNodeNum": 31
+        },
+        {
+            "FunctionName": "bloom_reset",
+            "FirstLineNumber": 156,
+            "LastLineNumber": 161,
+            "NodeBaseNum": 70,
+            "ParentNodeNum": 56
+        },
+        {
+            "FunctionName": "bloom_version",
+            "FirstLineNumber": 166,
+            "LastLineNumber": 166,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 14
+        },
+        {
+            "FunctionName": "bloom_check_add",
+            "FirstLineNumber": 48,
+            "LastLineNumber": 77,
+            "NodeBaseNum": 242,
+            "ParentNodeNum": 245
+        },
+        {
+            "FunctionName": "test_bit_set_bit",
+            "FirstLineNumber": 30,
+            "LastLineNumber": 45,
+            "NodeBaseNum": 83,
+            "ParentNodeNum": 76
+        },
+        {
+            "FunctionName": "murmurhash2",
+            "FirstLineNumber": 15,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 214,
+            "ParentNodeNum": 242
+        },
+        {
+            "FunctionName": "ipset_init_library",
+            "FirstLineNumber": 20,
+            "LastLineNumber": 20,
+            "NodeBaseNum": 25,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "ipset_init",
+            "FirstLineNumber": 18,
+            "LastLineNumber": 24,
+            "NodeBaseNum": 45,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "ipset_new",
+            "FirstLineNumber": 30,
+            "LastLineNumber": 32,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 29
+        },
+        {
+            "FunctionName": "ipset_done",
+            "FirstLineNumber": 37,
+            "LastLineNumber": 41,
+            "NodeBaseNum": 199,
+            "ParentNodeNum": 139
+        },
+        {
+            "FunctionName": "ipset_free",
+            "FirstLineNumber": 45,
+            "LastLineNumber": 49,
+            "NodeBaseNum": 82,
+            "ParentNodeNum": 50
+        },
+        {
+            "FunctionName": "cork_malloc",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_alloc_malloc",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "ipset_contains_ipv4",
+            "FirstLineNumber": 50,
+            "LastLineNumber": 53,
+            "NodeBaseNum": 61,
+            "ParentNodeNum": 39
+        },
+        {
+            "FunctionName": "ipset_ipv4_add_network",
+            "FirstLineNumber": 58,
+            "LastLineNumber": 78,
+            "NodeBaseNum": 368,
+            "ParentNodeNum": 275
+        },
+        {
+            "FunctionName": "ipset_ipv4_add",
+            "FirstLineNumber": 82,
+            "LastLineNumber": 91,
+            "NodeBaseNum": 205,
+            "ParentNodeNum": 143
+        },
+        {
+            "FunctionName": "ipset_ipv4_remove",
+            "FirstLineNumber": 96,
+            "LastLineNumber": 105,
+            "NodeBaseNum": 205,
+            "ParentNodeNum": 143
+        },
+        {
+            "FunctionName": "ipset_ipv4_remove_network",
+            "FirstLineNumber": 110,
+            "LastLineNumber": 130,
+            "NodeBaseNum": 369,
+            "ParentNodeNum": 276
+        },
+        {
+            "FunctionName": "ipset_ipv4_assignment",
+            "FirstLineNumber": 38,
+            "LastLineNumber": 46,
+            "NodeBaseNum": 61,
+            "ParentNodeNum": 50
+        },
+        {
+            "FunctionName": "ipset_ipv4_bit_for_var",
+            "FirstLineNumber": 27,
+            "LastLineNumber": 29,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "ipset_contains_ipv6",
+            "FirstLineNumber": 50,
+            "LastLineNumber": 53,
+            "NodeBaseNum": 61,
+            "ParentNodeNum": 39
+        },
+        {
+            "FunctionName": "ipset_ipv6_add_network",
+            "FirstLineNumber": 58,
+            "LastLineNumber": 78,
+            "NodeBaseNum": 368,
+            "ParentNodeNum": 275
+        },
+        {
+            "FunctionName": "ipset_ipv6_add",
+            "FirstLineNumber": 82,
+            "LastLineNumber": 91,
+            "NodeBaseNum": 205,
+            "ParentNodeNum": 143
+        },
+        {
+            "FunctionName": "ipset_ipv6_remove",
+            "FirstLineNumber": 96,
+            "LastLineNumber": 105,
+            "NodeBaseNum": 205,
+            "ParentNodeNum": 143
+        },
+        {
+            "FunctionName": "ipset_ipv6_remove_network",
+            "FirstLineNumber": 110,
+            "LastLineNumber": 130,
+            "NodeBaseNum": 369,
+            "ParentNodeNum": 276
+        },
+        {
+            "FunctionName": "ipset_ipv6_assignment",
+            "FirstLineNumber": 38,
+            "LastLineNumber": 46,
+            "NodeBaseNum": 61,
+            "ParentNodeNum": 50
+        },
+        {
+            "FunctionName": "ipset_ipv6_bit_for_var",
+            "FirstLineNumber": 27,
+            "LastLineNumber": 29,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "signal_cb",
+            "FirstLineNumber": 836,
+            "LastLineNumber": 1366,
+            "NodeBaseNum": 242,
+            "ParentNodeNum": 210
+        },
+        {
+            "FunctionName": "accept_cb",
+            "FirstLineNumber": 155,
+            "LastLineNumber": 1417,
+            "NodeBaseNum": 482,
+            "ParentNodeNum": 420
+        },
+        {
+            "FunctionName": "close_and_free_server",
+            "FirstLineNumber": 1221,
+            "LastLineNumber": 1259,
+            "NodeBaseNum": 295,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "close_and_free_remote",
+            "FirstLineNumber": 1155,
+            "LastLineNumber": 1179,
+            "NodeBaseNum": 158,
+            "ParentNodeNum": 126
+        },
+        {
+            "FunctionName": "delayed_connect_cb",
+            "FirstLineNumber": 269,
+            "LastLineNumber": 275,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 25
+        },
+        {
+            "FunctionName": "server_send_cb",
+            "FirstLineNumber": 890,
+            "LastLineNumber": 925,
+            "NodeBaseNum": 719,
+            "ParentNodeNum": 648
+        },
+        {
+            "FunctionName": "server_recv_cb",
+            "FirstLineNumber": 332,
+            "LastLineNumber": 887,
+            "NodeBaseNum": 19882,
+            "ParentNodeNum": 24578
+        },
+        {
+            "FunctionName": "create_remote",
+            "FirstLineNumber": 155,
+            "LastLineNumber": 1335,
+            "NodeBaseNum": 892,
+            "ParentNodeNum": 870
+        },
+        {
+            "FunctionName": "remote_timeout_cb",
+            "FirstLineNumber": 941,
+            "LastLineNumber": 955,
+            "NodeBaseNum": 363,
+            "ParentNodeNum": 261
+        },
+        {
+            "FunctionName": "remote_send_cb",
+            "FirstLineNumber": 1033,
+            "LastLineNumber": 1124,
+            "NodeBaseNum": 1039,
+            "ParentNodeNum": 950
+        },
+        {
+            "FunctionName": "remote_recv_cb",
+            "FirstLineNumber": 958,
+            "LastLineNumber": 1030,
+            "NodeBaseNum": 1327,
+            "ParentNodeNum": 1194
+        },
+        {
+            "FunctionName": "server_handshake_reply",
+            "FirstLineNumber": 278,
+            "LastLineNumber": 329,
+            "NodeBaseNum": 848,
+            "ParentNodeNum": 732
+        },
+        {
+            "FunctionName": "ERROR",
+            "FirstLineNumber": 65,
+            "LastLineNumber": 69,
+            "NodeBaseNum": 111,
+            "ParentNodeNum": 74
+        },
+        {
+            "FunctionName": "ss_itoa",
+            "FirstLineNumber": 76,
+            "LastLineNumber": 95,
+            "NodeBaseNum": 118,
+            "ParentNodeNum": 122
+        },
+        {
+            "FunctionName": "ss_isnumeric",
+            "FirstLineNumber": 98,
+            "LastLineNumber": 105,
+            "NodeBaseNum": 118,
+            "ParentNodeNum": 116
+        },
+        {
+            "FunctionName": "run_as",
+            "FirstLineNumber": 98,
+            "LastLineNumber": 212,
+            "NodeBaseNum": 986,
+            "ParentNodeNum": 1031
+        },
+        {
+            "FunctionName": "ss_strndup",
+            "FirstLineNumber": 215,
+            "LastLineNumber": 242,
+            "NodeBaseNum": 102,
+            "ParentNodeNum": 98
+        },
+        {
+            "FunctionName": "ss_malloc",
+            "FirstLineNumber": 238,
+            "LastLineNumber": 243,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "FATAL",
+            "FirstLineNumber": 231,
+            "LastLineNumber": 234,
+            "NodeBaseNum": 82,
+            "ParentNodeNum": 48
+        },
+        {
+            "FunctionName": "ss_aligned_malloc",
+            "FirstLineNumber": 238,
+            "LastLineNumber": 265,
+            "NodeBaseNum": 53,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "ss_realloc",
+            "FirstLineNumber": 268,
+            "LastLineNumber": 276,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "ss_is_ipv6addr",
+            "FirstLineNumber": 280,
+            "LastLineNumber": 282,
+            "NodeBaseNum": 39,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "usage",
+            "FirstLineNumber": 288,
+            "LastLineNumber": 440,
+            "NodeBaseNum": 208,
+            "ParentNodeNum": 101
+        },
+        {
+            "FunctionName": "daemonize",
+            "FirstLineNumber": 443,
+            "LastLineNumber": 502,
+            "NodeBaseNum": 140,
+            "ParentNodeNum": 112
+        },
+        {
+            "FunctionName": "set_nofile",
+            "FirstLineNumber": 506,
+            "LastLineNumber": 529,
+            "NodeBaseNum": 263,
+            "ParentNodeNum": 199
+        },
+        {
+            "FunctionName": "get_default_conf",
+            "FirstLineNumber": 540,
+            "LastLineNumber": 572,
+            "NodeBaseNum": 212,
+            "ParentNodeNum": 205
+        },
+        {
+            "FunctionName": "load16_be",
+            "FirstLineNumber": 575,
+            "LastLineNumber": 579,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "free_addr",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 25
+        },
+        {
+            "FunctionName": "parse_addr",
+            "FirstLineNumber": 66,
+            "LastLineNumber": 118,
+            "NodeBaseNum": 584,
+            "ParentNodeNum": 623
+        },
+        {
+            "FunctionName": "read_jconf",
+            "FirstLineNumber": 121,
+            "LastLineNumber": 379,
+            "NodeBaseNum": 3804,
+            "ParentNodeNum": 3570
+        },
+        {
+            "FunctionName": "to_string",
+            "FirstLineNumber": 43,
+            "LastLineNumber": 56,
+            "NodeBaseNum": 239,
+            "ParentNodeNum": 207
+        },
+        {
+            "FunctionName": "json_parse_ex",
+            "FirstLineNumber": 53,
+            "LastLineNumber": 1007,
+            "NodeBaseNum": 11457,
+            "ParentNodeNum": 14526
+        },
+        {
+            "FunctionName": "json_value_free_ex",
+            "FirstLineNumber": 961,
+            "LastLineNumber": 1009,
+            "NodeBaseNum": 334,
+            "ParentNodeNum": 377
+        },
+        {
+            "FunctionName": "json_parse",
+            "FirstLineNumber": 955,
+            "LastLineNumber": 959,
+            "NodeBaseNum": 191,
+            "ParentNodeNum": 116
+        },
+        {
+            "FunctionName": "json_value_free",
+            "FirstLineNumber": 89,
+            "LastLineNumber": 1016,
+            "NodeBaseNum": 288,
+            "ParentNodeNum": 331
+        },
+        {
+            "FunctionName": "default_alloc",
+            "FirstLineNumber": 84,
+            "LastLineNumber": 86,
+            "NodeBaseNum": 39,
+            "ParentNodeNum": 23
+        },
+        {
+            "FunctionName": "default_free",
+            "FirstLineNumber": 89,
+            "LastLineNumber": 92,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "new_value",
+            "FirstLineNumber": 94,
+            "LastLineNumber": 198,
+            "NodeBaseNum": 587,
+            "ParentNodeNum": 653
+        },
+        {
+            "FunctionName": "create_remote_socket",
+            "FirstLineNumber": 369,
+            "LastLineNumber": 435,
+            "NodeBaseNum": 211,
+            "ParentNodeNum": 160
+        },
+        {
+            "FunctionName": "create_server_socket",
+            "FirstLineNumber": 438,
+            "LastLineNumber": 549,
+            "NodeBaseNum": 683,
+            "ParentNodeNum": 619
+        },
+        {
+            "FunctionName": "new_server_ctx",
+            "FirstLineNumber": 569,
+            "LastLineNumber": 578,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 58
+        },
+        {
+            "FunctionName": "free_cb",
+            "FirstLineNumber": 609,
+            "LastLineNumber": 1402,
+            "NodeBaseNum": 136,
+            "ParentNodeNum": 93
+        },
+        {
+            "FunctionName": "init_udprelay",
+            "FirstLineNumber": 118,
+            "LastLineNumber": 1459,
+            "NodeBaseNum": 347,
+            "ParentNodeNum": 314
+        },
+        {
+            "FunctionName": "free_udprelay",
+            "FirstLineNumber": 1464,
+            "LastLineNumber": 1476,
+            "NodeBaseNum": 199,
+            "ParentNodeNum": 171
+        },
+        {
+            "FunctionName": "server_recv_cb348",
+            "FirstLineNumber": 118,
+            "LastLineNumber": 1390,
+            "NodeBaseNum": 1901,
+            "ParentNodeNum": 1809
+        },
+        {
+            "FunctionName": "remote_timeout_cb352",
+            "FirstLineNumber": 199,
+            "LastLineNumber": 631,
+            "NodeBaseNum": 203,
+            "ParentNodeNum": 139
+        },
+        {
+            "FunctionName": "remote_recv_cb353",
+            "FirstLineNumber": 609,
+            "LastLineNumber": 925,
+            "NodeBaseNum": 1308,
+            "ParentNodeNum": 1308
+        },
+        {
+            "FunctionName": "get_addr_str",
+            "FirstLineNumber": 330,
+            "LastLineNumber": 365,
+            "NodeBaseNum": 214,
+            "ParentNodeNum": 197
+        },
+        {
+            "FunctionName": "parse_udprelay_header",
+            "FirstLineNumber": 245,
+            "LastLineNumber": 324,
+            "NodeBaseNum": 733,
+            "ParentNodeNum": 713
+        },
+        {
+            "FunctionName": "cache_create",
+            "FirstLineNumber": 49,
+            "LastLineNumber": 67,
+            "NodeBaseNum": 77,
+            "ParentNodeNum": 59
+        },
+        {
+            "FunctionName": "cache_delete",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 107,
+            "NodeBaseNum": 630,
+            "ParentNodeNum": 671
+        },
+        {
+            "FunctionName": "cache_clear",
+            "FirstLineNumber": 120,
+            "LastLineNumber": 146,
+            "NodeBaseNum": 586,
+            "ParentNodeNum": 618
+        },
+        {
+            "FunctionName": "cache_remove",
+            "FirstLineNumber": 162,
+            "LastLineNumber": 186,
+            "NodeBaseNum": 1405,
+            "ParentNodeNum": 1662
+        },
+        {
+            "FunctionName": "cache_lookup",
+            "FirstLineNumber": 209,
+            "LastLineNumber": 229,
+            "NodeBaseNum": 3972,
+            "ParentNodeNum": 4907
+        },
+        {
+            "FunctionName": "cache_key_exist",
+            "FirstLineNumber": 232,
+            "LastLineNumber": 249,
+            "NodeBaseNum": 3827,
+            "ParentNodeNum": 4701
+        },
+        {
+            "FunctionName": "cache_insert",
+            "FirstLineNumber": 268,
+            "LastLineNumber": 306,
+            "NodeBaseNum": 3071,
+            "ParentNodeNum": 3759
+        },
+        {
+            "FunctionName": "set_reuseport",
+            "FirstLineNumber": 57,
+            "LastLineNumber": 60,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "get_sockaddr_len",
+            "FirstLineNumber": 64,
+            "LastLineNumber": 72,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "setinterface",
+            "FirstLineNumber": 76,
+            "LastLineNumber": 84,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "parse_local_addr",
+            "FirstLineNumber": 89,
+            "LastLineNumber": 114,
+            "NodeBaseNum": 419,
+            "ParentNodeNum": 328
+        },
+        {
+            "FunctionName": "bind_to_addr",
+            "FirstLineNumber": 117,
+            "LastLineNumber": 126,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 68
+        },
+        {
+            "FunctionName": "get_sockaddr",
+            "FirstLineNumber": 129,
+            "LastLineNumber": 363,
+            "NodeBaseNum": 655,
+            "ParentNodeNum": 606
+        },
+        {
+            "FunctionName": "sockaddr_cmp",
+            "FirstLineNumber": 203,
+            "LastLineNumber": 234,
+            "NodeBaseNum": 180,
+            "ParentNodeNum": 169
+        },
+        {
+            "FunctionName": "sockaddr_cmp_addr",
+            "FirstLineNumber": 237,
+            "LastLineNumber": 261,
+            "NodeBaseNum": 224,
+            "ParentNodeNum": 186
+        },
+        {
+            "FunctionName": "validate_hostname",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 298,
+            "NodeBaseNum": 221,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "is_ipv6only",
+            "FirstLineNumber": 301,
+            "LastLineNumber": 315,
+            "NodeBaseNum": 299,
+            "ParentNodeNum": 234
+        },
+        {
+            "FunctionName": "balloc",
+            "FirstLineNumber": 47,
+            "LastLineNumber": 52,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "brealloc",
+            "FirstLineNumber": 56,
+            "LastLineNumber": 66,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 61
+        },
+        {
+            "FunctionName": "bfree",
+            "FirstLineNumber": 69,
+            "LastLineNumber": 79,
+            "NodeBaseNum": 55,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "bprepend",
+            "FirstLineNumber": 56,
+            "LastLineNumber": 88,
+            "NodeBaseNum": 179,
+            "ParentNodeNum": 173
+        },
+        {
+            "FunctionName": "rand_bytes",
+            "FirstLineNumber": 92,
+            "LastLineNumber": 96,
+            "NodeBaseNum": 31,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "crypto_md5",
+            "FirstLineNumber": 100,
+            "LastLineNumber": 112,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 53
+        },
+        {
+            "FunctionName": "crypto_init",
+            "FirstLineNumber": 119,
+            "LastLineNumber": 203,
+            "NodeBaseNum": 1037,
+            "ParentNodeNum": 1018
+        },
+        {
+            "FunctionName": "crypto_derive_key",
+            "FirstLineNumber": 206,
+            "LastLineNumber": 246,
+            "NodeBaseNum": 227,
+            "ParentNodeNum": 233
+        },
+        {
+            "FunctionName": "crypto_hkdf",
+            "FirstLineNumber": 250,
+            "LastLineNumber": 283,
+            "NodeBaseNum": 130,
+            "ParentNodeNum": 101
+        },
+        {
+            "FunctionName": "crypto_hkdf_extract",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 283,
+            "NodeBaseNum": 74,
+            "ParentNodeNum": 56
+        },
+        {
+            "FunctionName": "crypto_hkdf_expand",
+            "FirstLineNumber": 287,
+            "LastLineNumber": 353,
+            "NodeBaseNum": 313,
+            "ParentNodeNum": 360
+        },
+        {
+            "FunctionName": "crypto_parse_key",
+            "FirstLineNumber": 92,
+            "LastLineNumber": 380,
+            "NodeBaseNum": 338,
+            "ParentNodeNum": 269
+        },
+        {
+            "FunctionName": "aead_get_cipher_type",
+            "FirstLineNumber": 262,
+            "LastLineNumber": 282,
+            "NodeBaseNum": 242,
+            "ParentNodeNum": 203
+        },
+        {
+            "FunctionName": "aead_ctx_init",
+            "FirstLineNumber": 324,
+            "LastLineNumber": 374,
+            "NodeBaseNum": 460,
+            "ParentNodeNum": 399
+        },
+        {
+            "FunctionName": "aead_ctx_release",
+            "FirstLineNumber": 377,
+            "LastLineNumber": 396,
+            "NodeBaseNum": 133,
+            "ParentNodeNum": 107
+        },
+        {
+            "FunctionName": "aead_encrypt_all",
+            "FirstLineNumber": 377,
+            "LastLineNumber": 438,
+            "NodeBaseNum": 691,
+            "ParentNodeNum": 607
+        },
+        {
+            "FunctionName": "aead_decrypt_all",
+            "FirstLineNumber": 377,
+            "LastLineNumber": 489,
+            "NodeBaseNum": 774,
+            "ParentNodeNum": 658
+        },
+        {
+            "FunctionName": "aead_encrypt",
+            "FirstLineNumber": 492,
+            "LastLineNumber": 578,
+            "NodeBaseNum": 790,
+            "ParentNodeNum": 775
+        },
+        {
+            "FunctionName": "aead_decrypt",
+            "FirstLineNumber": 581,
+            "LastLineNumber": 711,
+            "NodeBaseNum": 1810,
+            "ParentNodeNum": 1993
+        },
+        {
+            "FunctionName": "aead_key_init",
+            "FirstLineNumber": 714,
+            "LastLineNumber": 755,
+            "NodeBaseNum": 656,
+            "ParentNodeNum": 621
+        },
+        {
+            "FunctionName": "aead_init",
+            "FirstLineNumber": 758,
+            "LastLineNumber": 772,
+            "NodeBaseNum": 211,
+            "ParentNodeNum": 163
+        },
+        {
+            "FunctionName": "ipset_node_fprint",
+            "FirstLineNumber": 22,
+            "LastLineNumber": 30,
+            "NodeBaseNum": 95,
+            "ParentNodeNum": 79
+        },
+        {
+            "FunctionName": "ipset_node_cache_new",
+            "FirstLineNumber": 72,
+            "LastLineNumber": 81,
+            "NodeBaseNum": 90,
+            "ParentNodeNum": 60
+        },
+        {
+            "FunctionName": "ipset_node_cache_free",
+            "FirstLineNumber": 85,
+            "LastLineNumber": 94,
+            "NodeBaseNum": 244,
+            "ParentNodeNum": 192
+        },
+        {
+            "FunctionName": "ipset_node_incref",
+            "FirstLineNumber": 128,
+            "LastLineNumber": 137,
+            "NodeBaseNum": 82,
+            "ParentNodeNum": 73
+        },
+        {
+            "FunctionName": "ipset_node_decref",
+            "FirstLineNumber": 141,
+            "LastLineNumber": 160,
+            "NodeBaseNum": 192,
+            "ParentNodeNum": 164
+        },
+        {
+            "FunctionName": "ipset_node_cache_nodes_equal",
+            "FirstLineNumber": 163,
+            "LastLineNumber": 185,
+            "NodeBaseNum": 180,
+            "ParentNodeNum": 178
+        },
+        {
+            "FunctionName": "ipset_node_cache_nonterminal",
+            "FirstLineNumber": 188,
+            "LastLineNumber": 244,
+            "NodeBaseNum": 543,
+            "ParentNodeNum": 439
+        },
+        {
+            "FunctionName": "ipset_bool_array_assignment",
+            "FirstLineNumber": 248,
+            "LastLineNumber": 251,
+            "NodeBaseNum": 39,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "ipset_bit_array_assignment",
+            "FirstLineNumber": 256,
+            "LastLineNumber": 258,
+            "NodeBaseNum": 52,
+            "ParentNodeNum": 41
+        },
+        {
+            "FunctionName": "ipset_node_evaluate",
+            "FirstLineNumber": 263,
+            "LastLineNumber": 295,
+            "NodeBaseNum": 133,
+            "ParentNodeNum": 127
+        },
+        {
+            "FunctionName": "ipset_node_insert",
+            "FirstLineNumber": 460,
+            "LastLineNumber": 466,
+            "NodeBaseNum": 128,
+            "ParentNodeNum": 81
+        },
+        {
+            "FunctionName": "cork_malloc766",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "ipset_node_hash",
+            "FirstLineNumber": 34,
+            "LastLineNumber": 42,
+            "NodeBaseNum": 176,
+            "ParentNodeNum": 107
+        },
+        {
+            "FunctionName": "ipset_node_equals",
+            "FirstLineNumber": 46,
+            "LastLineNumber": 59,
+            "NodeBaseNum": 86,
+            "ParentNodeNum": 71
+        },
+        {
+            "FunctionName": "ipset_node_cache_alloc_node",
+            "FirstLineNumber": 101,
+            "LastLineNumber": 125,
+            "NodeBaseNum": 249,
+            "ParentNodeNum": 208
+        },
+        {
+            "FunctionName": "ipset_apply_ite",
+            "FirstLineNumber": 323,
+            "LastLineNumber": 457,
+            "NodeBaseNum": 612,
+            "ParentNodeNum": 545
+        },
+        {
+            "FunctionName": "cork_hash_buffer",
+            "FirstLineNumber": 340,
+            "LastLineNumber": 346,
+            "NodeBaseNum": 697,
+            "ParentNodeNum": 794
+        },
+        {
+            "FunctionName": "cork_calloc",
+            "FirstLineNumber": 265,
+            "LastLineNumber": 268,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_alloc_calloc",
+            "FirstLineNumber": 106,
+            "LastLineNumber": 108,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_u128_from_64",
+            "FirstLineNumber": 66,
+            "LastLineNumber": 76,
+            "NodeBaseNum": 53,
+            "ParentNodeNum": 37
+        },
+        {
+            "FunctionName": "cork_fmix64",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 87,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 36
+        },
+        {
+            "FunctionName": "cork_getblock64",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_u128_from_32",
+            "FirstLineNumber": 46,
+            "LastLineNumber": 60,
+            "NodeBaseNum": 67,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_alloc_malloc767",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_new_alloc",
+            "FirstLineNumber": 137,
+            "LastLineNumber": 156,
+            "NodeBaseNum": 110,
+            "ParentNodeNum": 88
+        },
+        {
+            "FunctionName": "cork_alloc_set_user_data",
+            "FirstLineNumber": 161,
+            "LastLineNumber": 167,
+            "NodeBaseNum": 57,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "cork_alloc_set_calloc",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 173,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_malloc",
+            "FirstLineNumber": 176,
+            "LastLineNumber": 179,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_realloc",
+            "FirstLineNumber": 182,
+            "LastLineNumber": 185,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_xcalloc",
+            "FirstLineNumber": 188,
+            "LastLineNumber": 191,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_xmalloc",
+            "FirstLineNumber": 194,
+            "LastLineNumber": 197,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_xrealloc",
+            "FirstLineNumber": 200,
+            "LastLineNumber": 204,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_set_free",
+            "FirstLineNumber": 207,
+            "LastLineNumber": 210,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_alloc_strdup",
+            "FirstLineNumber": 232,
+            "LastLineNumber": 234,
+            "NodeBaseNum": 39,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_strndup",
+            "FirstLineNumber": 238,
+            "LastLineNumber": 241,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_alloc_xstrdup",
+            "FirstLineNumber": 263,
+            "LastLineNumber": 265,
+            "NodeBaseNum": 41,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_xstrndup",
+            "FirstLineNumber": 269,
+            "LastLineNumber": 272,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_alloc_strfree",
+            "FirstLineNumber": 276,
+            "LastLineNumber": 280,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_set_allocator",
+            "FirstLineNumber": 380,
+            "LastLineNumber": 383,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 13
+        },
+        {
+            "FunctionName": "cork_debug_alloc_new",
+            "FirstLineNumber": 415,
+            "LastLineNumber": 420,
+            "NodeBaseNum": 62,
+            "ParentNodeNum": 35
+        },
+        {
+            "FunctionName": "cork_alloc_malloc770",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc__default_calloc",
+            "FirstLineNumber": 32,
+            "LastLineNumber": 39,
+            "NodeBaseNum": 48,
+            "ParentNodeNum": 31
+        },
+        {
+            "FunctionName": "cork_alloc__default_malloc",
+            "FirstLineNumber": 43,
+            "LastLineNumber": 49,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "cork_alloc__default_realloc",
+            "FirstLineNumber": 53,
+            "LastLineNumber": 60,
+            "NodeBaseNum": 53,
+            "ParentNodeNum": 34
+        },
+        {
+            "FunctionName": "cork_alloc__default_xcalloc",
+            "FirstLineNumber": 64,
+            "LastLineNumber": 73,
+            "NodeBaseNum": 87,
+            "ParentNodeNum": 70
+        },
+        {
+            "FunctionName": "cork_alloc__default_xmalloc",
+            "FirstLineNumber": 77,
+            "LastLineNumber": 79,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_alloc__default_xrealloc",
+            "FirstLineNumber": 83,
+            "LastLineNumber": 92,
+            "NodeBaseNum": 97,
+            "ParentNodeNum": 86
+        },
+        {
+            "FunctionName": "cork_alloc__default_free",
+            "FirstLineNumber": 96,
+            "LastLineNumber": 98,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_alloc_register_cleanup",
+            "FirstLineNumber": 125,
+            "LastLineNumber": 134,
+            "NodeBaseNum": 51,
+            "ParentNodeNum": 33
+        },
+        {
+            "FunctionName": "strndup_internal",
+            "FirstLineNumber": 218,
+            "LastLineNumber": 228,
+            "NodeBaseNum": 70,
+            "ParentNodeNum": 57
+        },
+        {
+            "FunctionName": "xstrndup_internal",
+            "FirstLineNumber": 245,
+            "LastLineNumber": 260,
+            "NodeBaseNum": 87,
+            "ParentNodeNum": 76
+        },
+        {
+            "FunctionName": "cork_alloc_free",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_debug_alloc__xmalloc",
+            "FirstLineNumber": 391,
+            "LastLineNumber": 396,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "cork_debug_alloc__free",
+            "FirstLineNumber": 400,
+            "LastLineNumber": 412,
+            "NodeBaseNum": 89,
+            "ParentNodeNum": 61
+        },
+        {
+            "FunctionName": "cork_alloc_xmalloc",
+            "FirstLineNumber": 139,
+            "LastLineNumber": 141,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__free",
+            "FirstLineNumber": 353,
+            "LastLineNumber": 356,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__xrealloc",
+            "FirstLineNumber": 346,
+            "LastLineNumber": 349,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__xmalloc",
+            "FirstLineNumber": 340,
+            "LastLineNumber": 342,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__xcalloc",
+            "FirstLineNumber": 333,
+            "LastLineNumber": 336,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__realloc",
+            "FirstLineNumber": 309,
+            "LastLineNumber": 328,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__malloc",
+            "FirstLineNumber": 299,
+            "LastLineNumber": 305,
+            "NodeBaseNum": 41,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_stdlib_alloc__calloc",
+            "FirstLineNumber": 288,
+            "LastLineNumber": 295,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_alloc_free_all",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 83,
+            "ParentNodeNum": 67
+        },
+        {
+            "FunctionName": "cork_alloc_free_alloc",
+            "FirstLineNumber": 105,
+            "LastLineNumber": 109,
+            "NodeBaseNum": 72,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_alloc_xrealloc",
+            "FirstLineNumber": 147,
+            "LastLineNumber": 150,
+            "NodeBaseNum": 36,
+            "ParentNodeNum": 17
+        },
+        {
+            "FunctionName": "cork_alloc_xcalloc",
+            "FirstLineNumber": 131,
+            "LastLineNumber": 133,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_error_occurred",
+            "FirstLineNumber": 108,
+            "LastLineNumber": 109,
+            "NodeBaseNum": 136,
+            "ParentNodeNum": 81
+        },
+        {
+            "FunctionName": "cork_error_code",
+            "FirstLineNumber": 115,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 133,
+            "ParentNodeNum": 78
+        },
+        {
+            "FunctionName": "cork_error_message",
+            "FirstLineNumber": 122,
+            "LastLineNumber": 123,
+            "NodeBaseNum": 140,
+            "ParentNodeNum": 84
+        },
+        {
+            "FunctionName": "cork_error_clear",
+            "FirstLineNumber": 129,
+            "LastLineNumber": 132,
+            "NodeBaseNum": 155,
+            "ParentNodeNum": 96
+        },
+        {
+            "FunctionName": "cork_error_set_printf",
+            "FirstLineNumber": 135,
+            "LastLineNumber": 143,
+            "NodeBaseNum": 195,
+            "ParentNodeNum": 130
+        },
+        {
+            "FunctionName": "cork_error_set_string",
+            "FirstLineNumber": 146,
+            "LastLineNumber": 151,
+            "NodeBaseNum": 182,
+            "ParentNodeNum": 118
+        },
+        {
+            "FunctionName": "cork_error_set_vprintf",
+            "FirstLineNumber": 154,
+            "LastLineNumber": 159,
+            "NodeBaseNum": 187,
+            "ParentNodeNum": 121
+        },
+        {
+            "FunctionName": "cork_error_prefix_printf",
+            "FirstLineNumber": 162,
+            "LastLineNumber": 174,
+            "NodeBaseNum": 285,
+            "ParentNodeNum": 212
+        },
+        {
+            "FunctionName": "cork_error_prefix_string",
+            "FirstLineNumber": 177,
+            "LastLineNumber": 186,
+            "NodeBaseNum": 272,
+            "ParentNodeNum": 200
+        },
+        {
+            "FunctionName": "cork_error_prefix_vprintf",
+            "FirstLineNumber": 189,
+            "LastLineNumber": 198,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 203
+        },
+        {
+            "FunctionName": "cork_error_set",
+            "FirstLineNumber": 206,
+            "LastLineNumber": 214,
+            "NodeBaseNum": 157,
+            "ParentNodeNum": 98
+        },
+        {
+            "FunctionName": "cork_error_prefix",
+            "FirstLineNumber": 217,
+            "LastLineNumber": 223,
+            "NodeBaseNum": 155,
+            "ParentNodeNum": 94
+        },
+        {
+            "FunctionName": "cork_system_error_set_explicit",
+            "FirstLineNumber": 231,
+            "LastLineNumber": 234,
+            "NodeBaseNum": 139,
+            "ParentNodeNum": 82
+        },
+        {
+            "FunctionName": "cork_system_error_set",
+            "FirstLineNumber": 239,
+            "LastLineNumber": 240,
+            "NodeBaseNum": 144,
+            "ParentNodeNum": 84
+        },
+        {
+            "FunctionName": "cork_unknown_error_set_",
+            "FirstLineNumber": 243,
+            "LastLineNumber": 246,
+            "NodeBaseNum": 145,
+            "ParentNodeNum": 86
+        },
+        {
+            "FunctionName": "cork_error_get",
+            "FirstLineNumber": 84,
+            "LastLineNumber": 98,
+            "NodeBaseNum": 369,
+            "ParentNodeNum": 358
+        },
+        {
+            "FunctionName": "cork_error_list_init",
+            "FirstLineNumber": 75,
+            "LastLineNumber": 76,
+            "NodeBaseNum": 88,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_error_list_done",
+            "FirstLineNumber": 64,
+            "LastLineNumber": 70,
+            "NodeBaseNum": 125,
+            "ParentNodeNum": 100
+        },
+        {
+            "FunctionName": "cork_error_free",
+            "FirstLineNumber": 49,
+            "LastLineNumber": 54,
+            "NodeBaseNum": 100,
+            "ParentNodeNum": 60
+        },
+        {
+            "FunctionName": "cork_free",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_free782",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_error_new",
+            "FirstLineNumber": 39,
+            "LastLineNumber": 45,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 45
+        },
+        {
+            "FunctionName": "cork_malloc783",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_alloc_malloc784",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_error__get",
+            "FirstLineNumber": 79,
+            "LastLineNumber": 79,
+            "NodeBaseNum": 25,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_ipv4_init",
+            "FirstLineNumber": 106,
+            "LastLineNumber": 108,
+            "NodeBaseNum": 177,
+            "ParentNodeNum": 115
+        },
+        {
+            "FunctionName": "cork_write_pipe__data",
+            "FirstLineNumber": 241,
+            "LastLineNumber": 248,
+            "NodeBaseNum": 260,
+            "ParentNodeNum": 222
+        },
+        {
+            "FunctionName": "cork_alloc_free932",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_malloc933",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_dllist_init",
+            "FirstLineNumber": 19,
+            "LastLineNumber": 23,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 27
+        },
+        {
+            "FunctionName": "cork_dllist_map",
+            "FirstLineNumber": 27,
+            "LastLineNumber": 35,
+            "NodeBaseNum": 82,
+            "ParentNodeNum": 70
+        },
+        {
+            "FunctionName": "cork_dllist_visit",
+            "FirstLineNumber": 38,
+            "LastLineNumber": 50,
+            "NodeBaseNum": 132,
+            "ParentNodeNum": 134
+        },
+        {
+            "FunctionName": "cork_dllist_size",
+            "FirstLineNumber": 54,
+            "LastLineNumber": 62,
+            "NodeBaseNum": 81,
+            "ParentNodeNum": 70
+        },
+        {
+            "FunctionName": "cork_ip_init",
+            "FirstLineNumber": 475,
+            "LastLineNumber": 499,
+            "NodeBaseNum": 506,
+            "ParentNodeNum": 411
+        },
+        {
+            "FunctionName": "cork_ip_equal_",
+            "FirstLineNumber": 502,
+            "LastLineNumber": 504,
+            "NodeBaseNum": 158,
+            "ParentNodeNum": 145
+        },
+        {
+            "FunctionName": "cork_ip_to_raw_string",
+            "FirstLineNumber": 508,
+            "LastLineNumber": 523,
+            "NodeBaseNum": 158,
+            "ParentNodeNum": 128
+        },
+        {
+            "FunctionName": "cork_ip_is_valid_network",
+            "FirstLineNumber": 526,
+            "LastLineNumber": 536,
+            "NodeBaseNum": 83,
+            "ParentNodeNum": 69
+        },
+        {
+            "FunctionName": "cork_ipv4_parse",
+            "FirstLineNumber": 40,
+            "LastLineNumber": 103,
+            "NodeBaseNum": 497,
+            "ParentNodeNum": 521
+        },
+        {
+            "FunctionName": "cork_raw_array_init",
+            "FirstLineNumber": 52,
+            "LastLineNumber": 67,
+            "NodeBaseNum": 114,
+            "ParentNodeNum": 91
+        },
+        {
+            "FunctionName": "cork_raw_array_done",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 85,
+            "NodeBaseNum": 248,
+            "ParentNodeNum": 225
+        },
+        {
+            "FunctionName": "cork_raw_array_set_callback_data",
+            "FirstLineNumber": 88,
+            "LastLineNumber": 93,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_raw_array_set_init",
+            "FirstLineNumber": 96,
+            "LastLineNumber": 99,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_raw_array_set_done",
+            "FirstLineNumber": 102,
+            "LastLineNumber": 105,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_raw_array_set_reuse",
+            "FirstLineNumber": 108,
+            "LastLineNumber": 111,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_raw_array_set_remove",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 117,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_raw_array_element_size",
+            "FirstLineNumber": 120,
+            "LastLineNumber": 122,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_raw_array_clear",
+            "FirstLineNumber": 126,
+            "LastLineNumber": 137,
+            "NodeBaseNum": 142,
+            "ParentNodeNum": 126
+        },
+        {
+            "FunctionName": "cork_raw_array_elements",
+            "FirstLineNumber": 140,
+            "LastLineNumber": 142,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_raw_array_at",
+            "FirstLineNumber": 146,
+            "LastLineNumber": 148,
+            "NodeBaseNum": 49,
+            "ParentNodeNum": 35
+        },
+        {
+            "FunctionName": "cork_raw_array_size",
+            "FirstLineNumber": 152,
+            "LastLineNumber": 154,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_raw_array_is_empty",
+            "FirstLineNumber": 158,
+            "LastLineNumber": 160,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_raw_array_ensure_size",
+            "FirstLineNumber": 164,
+            "LastLineNumber": 188,
+            "NodeBaseNum": 131,
+            "ParentNodeNum": 106
+        },
+        {
+            "FunctionName": "cork_raw_array_append",
+            "FirstLineNumber": 191,
+            "LastLineNumber": 220,
+            "NodeBaseNum": 264,
+            "ParentNodeNum": 229
+        },
+        {
+            "FunctionName": "cork_raw_array_copy",
+            "FirstLineNumber": 224,
+            "LastLineNumber": 283,
+            "NodeBaseNum": 718,
+            "ParentNodeNum": 751
+        },
+        {
+            "FunctionName": "cork_raw_pointer_array_init",
+            "FirstLineNumber": 330,
+            "LastLineNumber": 339,
+            "NodeBaseNum": 100,
+            "ParentNodeNum": 67
+        },
+        {
+            "FunctionName": "cork_string_array_init",
+            "FirstLineNumber": 347,
+            "LastLineNumber": 351,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_string_array_append",
+            "FirstLineNumber": 354,
+            "LastLineNumber": 358,
+            "NodeBaseNum": 141,
+            "ParentNodeNum": 93
+        },
+        {
+            "FunctionName": "cork_string_array_copy",
+            "FirstLineNumber": 370,
+            "LastLineNumber": 378,
+            "NodeBaseNum": 165,
+            "ParentNodeNum": 110
+        },
+        {
+            "FunctionName": "cork_malloc802",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_free803",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_realloc",
+            "FirstLineNumber": 283,
+            "LastLineNumber": 286,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "pointer__free",
+            "FirstLineNumber": 323,
+            "LastLineNumber": 327,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "pointer__init",
+            "FirstLineNumber": 295,
+            "LastLineNumber": 299,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "pointer__done",
+            "FirstLineNumber": 302,
+            "LastLineNumber": 309,
+            "NodeBaseNum": 48,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "pointer__remove",
+            "FirstLineNumber": 312,
+            "LastLineNumber": 320,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 32
+        },
+        {
+            "FunctionName": "cork_strfree",
+            "FirstLineNumber": 386,
+            "LastLineNumber": 389,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "cork_strdup",
+            "FirstLineNumber": 351,
+            "LastLineNumber": 354,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "string__copy",
+            "FirstLineNumber": 361,
+            "LastLineNumber": 366,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_alloc_realloc",
+            "FirstLineNumber": 122,
+            "LastLineNumber": 125,
+            "NodeBaseNum": 36,
+            "ParentNodeNum": 17
+        },
+        {
+            "FunctionName": "cork_alloc_free808",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_malloc809",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_buffer_init",
+            "FirstLineNumber": 23,
+            "LastLineNumber": 28,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 23
+        },
+        {
+            "FunctionName": "cork_buffer_new",
+            "FirstLineNumber": 34,
+            "LastLineNumber": 36,
+            "NodeBaseNum": 41,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "cork_buffer_done",
+            "FirstLineNumber": 41,
+            "LastLineNumber": 49,
+            "NodeBaseNum": 71,
+            "ParentNodeNum": 50
+        },
+        {
+            "FunctionName": "cork_buffer_free",
+            "FirstLineNumber": 53,
+            "LastLineNumber": 57,
+            "NodeBaseNum": 67,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "cork_buffer_equal",
+            "FirstLineNumber": 61,
+            "LastLineNumber": 73,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 61
+        },
+        {
+            "FunctionName": "cork_buffer_ensure_size",
+            "FirstLineNumber": 96,
+            "LastLineNumber": 99,
+            "NodeBaseNum": 55,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "cork_buffer_clear",
+            "FirstLineNumber": 103,
+            "LastLineNumber": 109,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 33
+        },
+        {
+            "FunctionName": "cork_buffer_truncate",
+            "FirstLineNumber": 112,
+            "LastLineNumber": 124,
+            "NodeBaseNum": 90,
+            "ParentNodeNum": 80
+        },
+        {
+            "FunctionName": "cork_buffer_set",
+            "FirstLineNumber": 128,
+            "LastLineNumber": 134,
+            "NodeBaseNum": 105,
+            "ParentNodeNum": 80
+        },
+        {
+            "FunctionName": "cork_buffer_append",
+            "FirstLineNumber": 138,
+            "LastLineNumber": 144,
+            "NodeBaseNum": 130,
+            "ParentNodeNum": 105
+        },
+        {
+            "FunctionName": "cork_buffer_set_string",
+            "FirstLineNumber": 148,
+            "LastLineNumber": 151,
+            "NodeBaseNum": 65,
+            "ParentNodeNum": 36
+        },
+        {
+            "FunctionName": "cork_buffer_append_string",
+            "FirstLineNumber": 155,
+            "LastLineNumber": 158,
+            "NodeBaseNum": 68,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "cork_buffer_append_vprintf",
+            "FirstLineNumber": 162,
+            "LastLineNumber": 187,
+            "NodeBaseNum": 179,
+            "ParentNodeNum": 151
+        },
+        {
+            "FunctionName": "cork_buffer_vprintf",
+            "FirstLineNumber": 191,
+            "LastLineNumber": 196,
+            "NodeBaseNum": 73,
+            "ParentNodeNum": 41
+        },
+        {
+            "FunctionName": "cork_buffer_append_printf",
+            "FirstLineNumber": 200,
+            "LastLineNumber": 206,
+            "NodeBaseNum": 74,
+            "ParentNodeNum": 46
+        },
+        {
+            "FunctionName": "cork_buffer_printf",
+            "FirstLineNumber": 210,
+            "LastLineNumber": 216,
+            "NodeBaseNum": 74,
+            "ParentNodeNum": 46
+        },
+        {
+            "FunctionName": "cork_buffer_append_indent",
+            "FirstLineNumber": 220,
+            "LastLineNumber": 226,
+            "NodeBaseNum": 124,
+            "ParentNodeNum": 101
+        },
+        {
+            "FunctionName": "cork_buffer_append_c_string",
+            "FirstLineNumber": 246,
+            "LastLineNumber": 286,
+            "NodeBaseNum": 564,
+            "ParentNodeNum": 477
+        },
+        {
+            "FunctionName": "cork_buffer_append_hex_dump",
+            "FirstLineNumber": 289,
+            "LastLineNumber": 329,
+            "NodeBaseNum": 662,
+            "ParentNodeNum": 640
+        },
+        {
+            "FunctionName": "cork_buffer_append_multiline",
+            "FirstLineNumber": 332,
+            "LastLineNumber": 345,
+            "NodeBaseNum": 229,
+            "ParentNodeNum": 209
+        },
+        {
+            "FunctionName": "cork_buffer_append_binary",
+            "FirstLineNumber": 348,
+            "LastLineNumber": 376,
+            "NodeBaseNum": 691,
+            "ParentNodeNum": 680
+        },
+        {
+            "FunctionName": "cork_buffer_to_managed_buffer",
+            "FirstLineNumber": 398,
+            "LastLineNumber": 407,
+            "NodeBaseNum": 70,
+            "ParentNodeNum": 53
+        },
+        {
+            "FunctionName": "cork_buffer_to_slice",
+            "FirstLineNumber": 412,
+            "LastLineNumber": 426,
+            "NodeBaseNum": 148,
+            "ParentNodeNum": 88
+        },
+        {
+            "FunctionName": "cork_buffer_to_stream_consumer",
+            "FirstLineNumber": 462,
+            "LastLineNumber": 470,
+            "NodeBaseNum": 57,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "cork_malloc822",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_free823",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_buffer_ensure_size_int",
+            "FirstLineNumber": 77,
+            "LastLineNumber": 93,
+            "NodeBaseNum": 91,
+            "ParentNodeNum": 72
+        },
+        {
+            "FunctionName": "cork_buffer_stream_consumer_data",
+            "FirstLineNumber": 436,
+            "LastLineNumber": 443,
+            "NodeBaseNum": 84,
+            "ParentNodeNum": 52
+        },
+        {
+            "FunctionName": "cork_buffer_stream_consumer_eof",
+            "FirstLineNumber": 447,
+            "LastLineNumber": 449,
+            "NodeBaseNum": 26,
+            "ParentNodeNum": 12
+        },
+        {
+            "FunctionName": "cork_buffer_stream_consumer_free",
+            "FirstLineNumber": 453,
+            "LastLineNumber": 459,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_buffer__managed_free",
+            "FirstLineNumber": 385,
+            "LastLineNumber": 391,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_realloc839",
+            "FirstLineNumber": 283,
+            "LastLineNumber": 286,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "cork_alloc_realloc840",
+            "FirstLineNumber": 122,
+            "LastLineNumber": 125,
+            "NodeBaseNum": 36,
+            "ParentNodeNum": 17
+        },
+        {
+            "FunctionName": "cork_alloc_free841",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_malloc842",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_hash_table_new",
+            "FirstLineNumber": 146,
+            "LastLineNumber": 161,
+            "NodeBaseNum": 97,
+            "ParentNodeNum": 79
+        },
+        {
+            "FunctionName": "cork_hash_table_clear",
+            "FirstLineNumber": 165,
+            "LastLineNumber": 190,
+            "NodeBaseNum": 266,
+            "ParentNodeNum": 257
+        },
+        {
+            "FunctionName": "cork_hash_table_free",
+            "FirstLineNumber": 193,
+            "LastLineNumber": 198,
+            "NodeBaseNum": 146,
+            "ParentNodeNum": 92
+        },
+        {
+            "FunctionName": "cork_hash_table_size",
+            "FirstLineNumber": 201,
+            "LastLineNumber": 203,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_hash_table_set_user_data",
+            "FirstLineNumber": 207,
+            "LastLineNumber": 212,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_hash_table_set_hash",
+            "FirstLineNumber": 215,
+            "LastLineNumber": 218,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_hash_table_set_equals",
+            "FirstLineNumber": 221,
+            "LastLineNumber": 224,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_hash_table_set_free_key",
+            "FirstLineNumber": 227,
+            "LastLineNumber": 230,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_hash_table_set_free_value",
+            "FirstLineNumber": 233,
+            "LastLineNumber": 236,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_hash_table_ensure_size",
+            "FirstLineNumber": 240,
+            "LastLineNumber": 271,
+            "NodeBaseNum": 443,
+            "ParentNodeNum": 453
+        },
+        {
+            "FunctionName": "cork_hash_table_get_entry_hash",
+            "FirstLineNumber": 283,
+            "LastLineNumber": 319,
+            "NodeBaseNum": 229,
+            "ParentNodeNum": 235
+        },
+        {
+            "FunctionName": "cork_hash_table_get_entry",
+            "FirstLineNumber": 322,
+            "LastLineNumber": 325,
+            "NodeBaseNum": 70,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "cork_hash_table_get_hash",
+            "FirstLineNumber": 329,
+            "LastLineNumber": 340,
+            "NodeBaseNum": 80,
+            "ParentNodeNum": 52
+        },
+        {
+            "FunctionName": "cork_hash_table_get",
+            "FirstLineNumber": 343,
+            "LastLineNumber": 353,
+            "NodeBaseNum": 75,
+            "ParentNodeNum": 49
+        },
+        {
+            "FunctionName": "cork_hash_table_get_or_create_hash",
+            "FirstLineNumber": 357,
+            "LastLineNumber": 416,
+            "NodeBaseNum": 545,
+            "ParentNodeNum": 547
+        },
+        {
+            "FunctionName": "cork_hash_table_get_or_create",
+            "FirstLineNumber": 419,
+            "LastLineNumber": 423,
+            "NodeBaseNum": 157,
+            "ParentNodeNum": 94
+        },
+        {
+            "FunctionName": "cork_hash_table_put_hash",
+            "FirstLineNumber": 428,
+            "LastLineNumber": 506,
+            "NodeBaseNum": 679,
+            "ParentNodeNum": 708
+        },
+        {
+            "FunctionName": "cork_hash_table_put",
+            "FirstLineNumber": 509,
+            "LastLineNumber": 516,
+            "NodeBaseNum": 174,
+            "ParentNodeNum": 104
+        },
+        {
+            "FunctionName": "cork_hash_table_delete_entry",
+            "FirstLineNumber": 520,
+            "LastLineNumber": 528,
+            "NodeBaseNum": 124,
+            "ParentNodeNum": 89
+        },
+        {
+            "FunctionName": "cork_hash_table_delete_hash",
+            "FirstLineNumber": 532,
+            "LastLineNumber": 582,
+            "NodeBaseNum": 449,
+            "ParentNodeNum": 462
+        },
+        {
+            "FunctionName": "cork_hash_table_delete",
+            "FirstLineNumber": 585,
+            "LastLineNumber": 589,
+            "NodeBaseNum": 104,
+            "ParentNodeNum": 63
+        },
+        {
+            "FunctionName": "cork_hash_table_map",
+            "FirstLineNumber": 595,
+            "LastLineNumber": 624,
+            "NodeBaseNum": 322,
+            "ParentNodeNum": 322
+        },
+        {
+            "FunctionName": "cork_hash_table_iterator_init",
+            "FirstLineNumber": 628,
+            "LastLineNumber": 634,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 29
+        },
+        {
+            "FunctionName": "cork_hash_table_iterator_next",
+            "FirstLineNumber": 638,
+            "LastLineNumber": 653,
+            "NodeBaseNum": 67,
+            "ParentNodeNum": 52
+        },
+        {
+            "FunctionName": "cork_string_hash_table_new",
+            "FirstLineNumber": 677,
+            "LastLineNumber": 682,
+            "NodeBaseNum": 48,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_pointer_hash_table_new",
+            "FirstLineNumber": 686,
+            "LastLineNumber": 688,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_malloc855",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_hash_table__default_hash",
+            "FirstLineNumber": 61,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_hash_table__default_equals",
+            "FirstLineNumber": 67,
+            "LastLineNumber": 70,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "cork_hash_table_allocate_bins",
+            "FirstLineNumber": 102,
+            "LastLineNumber": 114,
+            "NodeBaseNum": 146,
+            "ParentNodeNum": 132
+        },
+        {
+            "FunctionName": "cork_hash_table_free_entry",
+            "FirstLineNumber": 131,
+            "LastLineNumber": 142,
+            "NodeBaseNum": 124,
+            "ParentNodeNum": 94
+        },
+        {
+            "FunctionName": "cork_cfree",
+            "FirstLineNumber": 335,
+            "LastLineNumber": 339,
+            "NodeBaseNum": 58,
+            "ParentNodeNum": 33
+        },
+        {
+            "FunctionName": "cork_free856",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_hash_table_rehash",
+            "FirstLineNumber": 275,
+            "LastLineNumber": 279,
+            "NodeBaseNum": 92,
+            "ParentNodeNum": 56
+        },
+        {
+            "FunctionName": "cork_hash_table_new_entry",
+            "FirstLineNumber": 118,
+            "LastLineNumber": 127,
+            "NodeBaseNum": 98,
+            "ParentNodeNum": 80
+        },
+        {
+            "FunctionName": "string_hash",
+            "FirstLineNumber": 661,
+            "LastLineNumber": 665,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 46
+        },
+        {
+            "FunctionName": "string_equals",
+            "FirstLineNumber": 669,
+            "LastLineNumber": 673,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 17
+        },
+        {
+            "FunctionName": "cork_hash_buffer857",
+            "FirstLineNumber": 340,
+            "LastLineNumber": 346,
+            "NodeBaseNum": 697,
+            "ParentNodeNum": 794
+        },
+        {
+            "FunctionName": "cork_u128_from_64858",
+            "FirstLineNumber": 66,
+            "LastLineNumber": 76,
+            "NodeBaseNum": 53,
+            "ParentNodeNum": 37
+        },
+        {
+            "FunctionName": "cork_fmix64859",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 87,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 36
+        },
+        {
+            "FunctionName": "cork_getblock64860",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_u128_from_32861",
+            "FirstLineNumber": 46,
+            "LastLineNumber": 60,
+            "NodeBaseNum": 67,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_alloc_free862",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_cfree",
+            "FirstLineNumber": 177,
+            "LastLineNumber": 181,
+            "NodeBaseNum": 63,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "cork_calloc863",
+            "FirstLineNumber": 265,
+            "LastLineNumber": 268,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_alloc_calloc864",
+            "FirstLineNumber": 106,
+            "LastLineNumber": 108,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_hash_table_new_size",
+            "FirstLineNumber": 84,
+            "LastLineNumber": 94,
+            "NodeBaseNum": 65,
+            "ParentNodeNum": 62
+        },
+        {
+            "FunctionName": "cork_alloc_malloc865",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_managed_buffer_new",
+            "FirstLineNumber": 60,
+            "LastLineNumber": 77,
+            "NodeBaseNum": 66,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_managed_buffer_new_copy",
+            "FirstLineNumber": 106,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 101,
+            "ParentNodeNum": 87
+        },
+        {
+            "FunctionName": "cork_managed_buffer_ref",
+            "FirstLineNumber": 135,
+            "LastLineNumber": 144,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_managed_buffer_unref",
+            "FirstLineNumber": 149,
+            "LastLineNumber": 160,
+            "NodeBaseNum": 47,
+            "ParentNodeNum": 31
+        },
+        {
+            "FunctionName": "cork_managed_buffer_slice",
+            "FirstLineNumber": 194,
+            "LastLineNumber": 224,
+            "NodeBaseNum": 209,
+            "ParentNodeNum": 176
+        },
+        {
+            "FunctionName": "cork_managed_buffer_slice_offset",
+            "FirstLineNumber": 228,
+            "LastLineNumber": 240,
+            "NodeBaseNum": 216,
+            "ParentNodeNum": 154
+        },
+        {
+            "FunctionName": "cork_malloc872",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_managed_buffer_free",
+            "FirstLineNumber": 124,
+            "LastLineNumber": 131,
+            "NodeBaseNum": 34,
+            "ParentNodeNum": 19
+        },
+        {
+            "FunctionName": "cork_slice_invalid_slice_set",
+            "FirstLineNumber": 25,
+            "LastLineNumber": 32,
+            "NodeBaseNum": 157,
+            "ParentNodeNum": 100
+        },
+        {
+            "FunctionName": "cork_managed_buffer__slice_copy",
+            "FirstLineNumber": 173,
+            "LastLineNumber": 182,
+            "NodeBaseNum": 74,
+            "ParentNodeNum": 53
+        },
+        {
+            "FunctionName": "cork_managed_buffer__slice_free",
+            "FirstLineNumber": 166,
+            "LastLineNumber": 170,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_managed_buffer_copied__free",
+            "FirstLineNumber": 92,
+            "LastLineNumber": 99,
+            "NodeBaseNum": 55,
+            "ParentNodeNum": 37
+        },
+        {
+            "FunctionName": "cork_free873",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_free874",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_managed_buffer_wrapped__free",
+            "FirstLineNumber": 47,
+            "LastLineNumber": 53,
+            "NodeBaseNum": 63,
+            "ParentNodeNum": 41
+        },
+        {
+            "FunctionName": "cork_alloc_malloc875",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_slice_clear",
+            "FirstLineNumber": 40,
+            "LastLineNumber": 46,
+            "NodeBaseNum": 43,
+            "ParentNodeNum": 27
+        },
+        {
+            "FunctionName": "cork_slice_copy",
+            "FirstLineNumber": 50,
+            "LastLineNumber": 76,
+            "NodeBaseNum": 199,
+            "ParentNodeNum": 164
+        },
+        {
+            "FunctionName": "cork_slice_copy_offset",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 91,
+            "NodeBaseNum": 215,
+            "ParentNodeNum": 151
+        },
+        {
+            "FunctionName": "cork_slice_light_copy",
+            "FirstLineNumber": 95,
+            "LastLineNumber": 121,
+            "NodeBaseNum": 199,
+            "ParentNodeNum": 164
+        },
+        {
+            "FunctionName": "cork_slice_light_copy_offset",
+            "FirstLineNumber": 125,
+            "LastLineNumber": 136,
+            "NodeBaseNum": 215,
+            "ParentNodeNum": 151
+        },
+        {
+            "FunctionName": "cork_slice_slice",
+            "FirstLineNumber": 140,
+            "LastLineNumber": 169,
+            "NodeBaseNum": 205,
+            "ParentNodeNum": 175
+        },
+        {
+            "FunctionName": "cork_slice_slice_offset",
+            "FirstLineNumber": 173,
+            "LastLineNumber": 182,
+            "NodeBaseNum": 185,
+            "ParentNodeNum": 130
+        },
+        {
+            "FunctionName": "cork_slice_finish",
+            "FirstLineNumber": 186,
+            "LastLineNumber": 197,
+            "NodeBaseNum": 77,
+            "ParentNodeNum": 56
+        },
+        {
+            "FunctionName": "cork_slice_equal",
+            "FirstLineNumber": 201,
+            "LastLineNumber": 213,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 61
+        },
+        {
+            "FunctionName": "cork_slice_init_static",
+            "FirstLineNumber": 241,
+            "LastLineNumber": 247,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 29
+        },
+        {
+            "FunctionName": "cork_slice_init_copy_once",
+            "FirstLineNumber": 290,
+            "LastLineNumber": 296,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 29
+        },
+        {
+            "FunctionName": "cork_slice_invalid_slice_set879",
+            "FirstLineNumber": 25,
+            "LastLineNumber": 32,
+            "NodeBaseNum": 157,
+            "ParentNodeNum": 100
+        },
+        {
+            "FunctionName": "cork_copy_once_slice__light_copy",
+            "FirstLineNumber": 271,
+            "LastLineNumber": 279,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 42
+        },
+        {
+            "FunctionName": "cork_copy_once_slice__copy",
+            "FirstLineNumber": 257,
+            "LastLineNumber": 268,
+            "NodeBaseNum": 296,
+            "ParentNodeNum": 227
+        },
+        {
+            "FunctionName": "cork_static_slice_copy",
+            "FirstLineNumber": 223,
+            "LastLineNumber": 230,
+            "NodeBaseNum": 60,
+            "ParentNodeNum": 42
+        },
+        {
+            "FunctionName": "cork_env_new",
+            "FirstLineNumber": 73,
+            "LastLineNumber": 77,
+            "NodeBaseNum": 66,
+            "ParentNodeNum": 41
+        },
+        {
+            "FunctionName": "cork_env_clone_current",
+            "FirstLineNumber": 101,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 188,
+            "ParentNodeNum": 150
+        },
+        {
+            "FunctionName": "cork_env_free",
+            "FirstLineNumber": 125,
+            "LastLineNumber": 130,
+            "NodeBaseNum": 175,
+            "ParentNodeNum": 116
+        },
+        {
+            "FunctionName": "cork_env_get",
+            "FirstLineNumber": 133,
+            "LastLineNumber": 142,
+            "NodeBaseNum": 93,
+            "ParentNodeNum": 68
+        },
+        {
+            "FunctionName": "cork_env_add",
+            "FirstLineNumber": 145,
+            "LastLineNumber": 148,
+            "NodeBaseNum": 87,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "cork_env_add_vprintf",
+            "FirstLineNumber": 151,
+            "LastLineNumber": 156,
+            "NodeBaseNum": 133,
+            "ParentNodeNum": 81
+        },
+        {
+            "FunctionName": "cork_env_add_printf",
+            "FirstLineNumber": 159,
+            "LastLineNumber": 166,
+            "NodeBaseNum": 122,
+            "ParentNodeNum": 77
+        },
+        {
+            "FunctionName": "cork_env_remove",
+            "FirstLineNumber": 169,
+            "LastLineNumber": 180,
+            "NodeBaseNum": 133,
+            "ParentNodeNum": 88
+        },
+        {
+            "FunctionName": "cork_env_replace_current",
+            "FirstLineNumber": 208,
+            "LastLineNumber": 212,
+            "NodeBaseNum": 111,
+            "ParentNodeNum": 76
+        },
+        {
+            "FunctionName": "cork_malloc889",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_env_var_free",
+            "FirstLineNumber": 56,
+            "LastLineNumber": 62,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 46
+        },
+        {
+            "FunctionName": "cork_env_add_internal",
+            "FirstLineNumber": 81,
+            "LastLineNumber": 96,
+            "NodeBaseNum": 235,
+            "ParentNodeNum": 172
+        },
+        {
+            "FunctionName": "cork_free890",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_env_set_vars",
+            "FirstLineNumber": 184,
+            "LastLineNumber": 188,
+            "NodeBaseNum": 46,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "cork_alloc_free891",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_env_var_new",
+            "FirstLineNumber": 47,
+            "LastLineNumber": 52,
+            "NodeBaseNum": 63,
+            "ParentNodeNum": 36
+        },
+        {
+            "FunctionName": "cork_strdup892",
+            "FirstLineNumber": 351,
+            "LastLineNumber": 354,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_strfree893",
+            "FirstLineNumber": 386,
+            "LastLineNumber": 389,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "cork_alloc_malloc894",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_exec_new",
+            "FirstLineNumber": 45,
+            "LastLineNumber": 54,
+            "NodeBaseNum": 96,
+            "ParentNodeNum": 62
+        },
+        {
+            "FunctionName": "cork_exec_new_with_params",
+            "FirstLineNumber": 58,
+            "LastLineNumber": 70,
+            "NodeBaseNum": 290,
+            "ParentNodeNum": 224
+        },
+        {
+            "FunctionName": "cork_exec_add_param",
+            "FirstLineNumber": 124,
+            "LastLineNumber": 133,
+            "NodeBaseNum": 250,
+            "ParentNodeNum": 183
+        },
+        {
+            "FunctionName": "cork_exec_new_with_param_array",
+            "FirstLineNumber": 74,
+            "LastLineNumber": 81,
+            "NodeBaseNum": 157,
+            "ParentNodeNum": 107
+        },
+        {
+            "FunctionName": "cork_exec_free",
+            "FirstLineNumber": 85,
+            "LastLineNumber": 97,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 197
+        },
+        {
+            "FunctionName": "cork_exec_description",
+            "FirstLineNumber": 100,
+            "LastLineNumber": 102,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_exec_program",
+            "FirstLineNumber": 106,
+            "LastLineNumber": 108,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_exec_param_count",
+            "FirstLineNumber": 112,
+            "LastLineNumber": 114,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_exec_param",
+            "FirstLineNumber": 118,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 28
+        },
+        {
+            "FunctionName": "cork_exec_env",
+            "FirstLineNumber": 136,
+            "LastLineNumber": 138,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_exec_set_env",
+            "FirstLineNumber": 142,
+            "LastLineNumber": 148,
+            "NodeBaseNum": 149,
+            "ParentNodeNum": 112
+        },
+        {
+            "FunctionName": "cork_exec_cwd",
+            "FirstLineNumber": 151,
+            "LastLineNumber": 153,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_exec_set_cwd",
+            "FirstLineNumber": 157,
+            "LastLineNumber": 163,
+            "NodeBaseNum": 70,
+            "ParentNodeNum": 44
+        },
+        {
+            "FunctionName": "cork_exec_run",
+            "FirstLineNumber": 166,
+            "LastLineNumber": 189,
+            "NodeBaseNum": 645,
+            "ParentNodeNum": 602
+        },
+        {
+            "FunctionName": "cork_malloc901",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_strdup902",
+            "FirstLineNumber": 351,
+            "LastLineNumber": 354,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_strfree904",
+            "FirstLineNumber": 386,
+            "LastLineNumber": 389,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "cork_free905",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_free906",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_alloc_malloc907",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_cleanup_at_exit_named",
+            "FirstLineNumber": 109,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 102,
+            "ParentNodeNum": 57
+        },
+        {
+            "FunctionName": "cork_cleanup_entry_new",
+            "FirstLineNumber": 38,
+            "LastLineNumber": 45,
+            "NodeBaseNum": 56,
+            "ParentNodeNum": 34
+        },
+        {
+            "FunctionName": "cork_cleanup_entry_add",
+            "FirstLineNumber": 80,
+            "LastLineNumber": 105,
+            "NodeBaseNum": 278,
+            "ParentNodeNum": 290
+        },
+        {
+            "FunctionName": "cork_cleanup_call_all",
+            "FirstLineNumber": 76,
+            "LastLineNumber": 77,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_cleanup_call_one",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 71,
+            "NodeBaseNum": 57,
+            "ParentNodeNum": 35
+        },
+        {
+            "FunctionName": "cork_cleanup_entry_free",
+            "FirstLineNumber": 49,
+            "LastLineNumber": 53,
+            "NodeBaseNum": 57,
+            "ParentNodeNum": 33
+        },
+        {
+            "FunctionName": "cork_free910",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_alloc_free911",
+            "FirstLineNumber": 170,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_strfree912",
+            "FirstLineNumber": 386,
+            "LastLineNumber": 389,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "cork_strdup913",
+            "FirstLineNumber": 351,
+            "LastLineNumber": 354,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_malloc914",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_alloc_malloc915",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 116,
+            "NodeBaseNum": 32,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_subprocess_group_new",
+            "FirstLineNumber": 51,
+            "LastLineNumber": 55,
+            "NodeBaseNum": 56,
+            "ParentNodeNum": 35
+        },
+        {
+            "FunctionName": "cork_subprocess_free",
+            "FirstLineNumber": 341,
+            "LastLineNumber": 348,
+            "NodeBaseNum": 241,
+            "ParentNodeNum": 178
+        },
+        {
+            "FunctionName": "cork_subprocess_group_free",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 63,
+            "NodeBaseNum": 85,
+            "ParentNodeNum": 53
+        },
+        {
+            "FunctionName": "cork_subprocess_group_add",
+            "FirstLineNumber": 66,
+            "LastLineNumber": 70,
+            "NodeBaseNum": 136,
+            "ParentNodeNum": 93
+        },
+        {
+            "FunctionName": "cork_subprocess_new",
+            "FirstLineNumber": 322,
+            "LastLineNumber": 337,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 57
+        },
+        {
+            "FunctionName": "cork_subprocess_stdin",
+            "FirstLineNumber": 351,
+            "LastLineNumber": 353,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "cork_subprocess_new_exec",
+            "FirstLineNumber": 376,
+            "LastLineNumber": 382,
+            "NodeBaseNum": 47,
+            "ParentNodeNum": 25
+        },
+        {
+            "FunctionName": "cork_subprocess_start",
+            "FirstLineNumber": 393,
+            "LastLineNumber": 458,
+            "NodeBaseNum": 1298,
+            "ParentNodeNum": 1132
+        },
+        {
+            "FunctionName": "cork_subprocess_abort",
+            "FirstLineNumber": 518,
+            "LastLineNumber": 539,
+            "NodeBaseNum": 317,
+            "ParentNodeNum": 287
+        },
+        {
+            "FunctionName": "cork_subprocess_is_finished",
+            "FirstLineNumber": 542,
+            "LastLineNumber": 546,
+            "NodeBaseNum": 57,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "cork_subprocess_drain",
+            "FirstLineNumber": 562,
+            "LastLineNumber": 566,
+            "NodeBaseNum": 154,
+            "ParentNodeNum": 95
+        },
+        {
+            "FunctionName": "cork_subprocess_wait",
+            "FirstLineNumber": 570,
+            "LastLineNumber": 582,
+            "NodeBaseNum": 367,
+            "ParentNodeNum": 313
+        },
+        {
+            "FunctionName": "cork_subprocess_group_start",
+            "FirstLineNumber": 601,
+            "LastLineNumber": 615,
+            "NodeBaseNum": 674,
+            "ParentNodeNum": 605
+        },
+        {
+            "FunctionName": "cork_subprocess_group_abort",
+            "FirstLineNumber": 619,
+            "LastLineNumber": 622,
+            "NodeBaseNum": 90,
+            "ParentNodeNum": 57
+        },
+        {
+            "FunctionName": "cork_subprocess_group_is_finished",
+            "FirstLineNumber": 627,
+            "LastLineNumber": 638,
+            "NodeBaseNum": 159,
+            "ParentNodeNum": 146
+        },
+        {
+            "FunctionName": "cork_subprocess_group_drain",
+            "FirstLineNumber": 653,
+            "LastLineNumber": 657,
+            "NodeBaseNum": 100,
+            "ParentNodeNum": 64
+        },
+        {
+            "FunctionName": "cork_subprocess_group_wait",
+            "FirstLineNumber": 661,
+            "LastLineNumber": 674,
+            "NodeBaseNum": 285,
+            "ParentNodeNum": 257
+        },
+        {
+            "FunctionName": "cork_malloc929",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 277,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "cork_write_pipe_done",
+            "FirstLineNumber": 281,
+            "LastLineNumber": 284,
+            "NodeBaseNum": 90,
+            "ParentNodeNum": 52
+        },
+        {
+            "FunctionName": "cork_read_pipe_done",
+            "FirstLineNumber": 121,
+            "LastLineNumber": 124,
+            "NodeBaseNum": 90,
+            "ParentNodeNum": 52
+        },
+        {
+            "FunctionName": "cork_free930",
+            "FirstLineNumber": 327,
+            "LastLineNumber": 331,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 20
+        },
+        {
+            "FunctionName": "cork_write_pipe_init",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 271,
+            "NodeBaseNum": 58,
+            "ParentNodeNum": 41
+        },
+        {
+            "FunctionName": "cork_read_pipe_init",
+            "FirstLineNumber": 84,
+            "LastLineNumber": 89,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 27
+        },
+        {
+            "FunctionName": "cork_exec__free",
+            "FirstLineNumber": 369,
+            "LastLineNumber": 373,
+            "NodeBaseNum": 162,
+            "ParentNodeNum": 101
+        },
+        {
+            "FunctionName": "cork_exec__run",
+            "FirstLineNumber": 362,
+            "LastLineNumber": 365,
+            "NodeBaseNum": 122,
+            "ParentNodeNum": 72
+        },
+        {
+            "FunctionName": "cork_write_pipe_open",
+            "FirstLineNumber": 287,
+            "LastLineNumber": 293,
+            "NodeBaseNum": 245,
+            "ParentNodeNum": 213
+        },
+        {
+            "FunctionName": "cork_read_pipe_open",
+            "FirstLineNumber": 127,
+            "LastLineNumber": 148,
+            "NodeBaseNum": 800,
+            "ParentNodeNum": 832
+        },
+        {
+            "FunctionName": "cork_write_pipe_close",
+            "FirstLineNumber": 274,
+            "LastLineNumber": 278,
+            "NodeBaseNum": 139,
+            "ParentNodeNum": 83
+        },
+        {
+            "FunctionName": "cork_read_pipe_close",
+            "FirstLineNumber": 114,
+            "LastLineNumber": 118,
+            "NodeBaseNum": 139,
+            "ParentNodeNum": 83
+        },
+        {
+            "FunctionName": "cork_write_pipe_close_write",
+            "FirstLineNumber": 230,
+            "LastLineNumber": 238,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "cork_read_pipe_close_read",
+            "FirstLineNumber": 92,
+            "LastLineNumber": 100,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "cork_write_pipe_dup",
+            "FirstLineNumber": 296,
+            "LastLineNumber": 302,
+            "NodeBaseNum": 266,
+            "ParentNodeNum": 236
+        },
+        {
+            "FunctionName": "cork_read_pipe_dup",
+            "FirstLineNumber": 151,
+            "LastLineNumber": 157,
+            "NodeBaseNum": 266,
+            "ParentNodeNum": 236
+        },
+        {
+            "FunctionName": "cork_write_pipe_close_read",
+            "FirstLineNumber": 219,
+            "LastLineNumber": 227,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "cork_read_pipe_close_write",
+            "FirstLineNumber": 103,
+            "LastLineNumber": 111,
+            "NodeBaseNum": 277,
+            "ParentNodeNum": 250
+        },
+        {
+            "FunctionName": "cork_subprocess_reap",
+            "FirstLineNumber": 502,
+            "LastLineNumber": 515,
+            "NodeBaseNum": 305,
+            "ParentNodeNum": 271
+        },
+        {
+            "FunctionName": "cork_subprocess_yield",
+            "FirstLineNumber": 471,
+            "LastLineNumber": 498,
+            "NodeBaseNum": 128,
+            "ParentNodeNum": 114
+        },
+        {
+            "FunctionName": "cork_read_pipe_is_finished",
+            "FirstLineNumber": 203,
+            "LastLineNumber": 205,
+            "NodeBaseNum": 35,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "cork_subprocess_drain_",
+            "FirstLineNumber": 550,
+            "LastLineNumber": 559,
+            "NodeBaseNum": 353,
+            "ParentNodeNum": 289
+        },
+        {
+            "FunctionName": "cork_subprocess_group_terminate",
+            "FirstLineNumber": 590,
+            "LastLineNumber": 598,
+            "NodeBaseNum": 317,
+            "ParentNodeNum": 305
+        },
+        {
+            "FunctionName": "cork_subprocess_group_drain_",
+            "FirstLineNumber": 641,
+            "LastLineNumber": 650,
+            "NodeBaseNum": 469,
+            "ParentNodeNum": 430
+        },
+        {
+            "FunctionName": "cork_read_pipe_read",
+            "FirstLineNumber": 160,
+            "LastLineNumber": 200,
+            "NodeBaseNum": 652,
+            "ParentNodeNum": 658
+        },
+        {
+            "FunctionName": "cork_write_pipe__free",
+            "FirstLineNumber": 259,
+            "LastLineNumber": 261,
+            "NodeBaseNum": 24,
+            "ParentNodeNum": 11
+        },
+        {
+            "FunctionName": "cork_write_pipe__eof",
+            "FirstLineNumber": 251,
+            "LastLineNumber": 255,
+            "NodeBaseNum": 99,
+            "ParentNodeNum": 60
+        }
+    ]
+}

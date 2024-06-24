@@ -1,0 +1,1477 @@
+{
+    "Intra slices": [
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIPiSaIS1_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPiE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPiE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE17_M_insert_unique_INSA_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS4_ESt23_Rb_tree_const_iteratorIS4_ERKS4_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPlSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPlSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP12TwoIntsClassSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP12TwoIntsClassSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP12TwoIntsClassSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP12TwoIntsClassSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPP12TwoIntsClassmS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES6_T0_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPP12TwoIntsClassS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S8_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPlSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPlSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPPlmS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES5_T0_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPPlS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S7_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EEC2ERKS9_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_maximumEPS_",
+            "IsLeaf": true,
+            "Src Line": 128,
+            "Src Column": 40,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_maximumEPS_",
+            "IsLeaf": true,
+            "Src Line": 128,
+            "Src Column": 14,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_minimumEPS_",
+            "IsLeaf": true,
+            "Src Line": 114,
+            "Src Column": 39,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_minimumEPS_",
+            "IsLeaf": true,
+            "Src Line": 114,
+            "Src Column": 14,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE17_M_insert_unique_INS9_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS3_ESt23_Rb_tree_const_iteratorIS3_ERKS3_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS3_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPlESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassaSERKS0_",
+            "IsLeaf": true,
+            "Src Line": 50,
+            "Src Column": 46,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassaSERKS0_",
+            "IsLeaf": true,
+            "Src Line": 50,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassaSERKS0_",
+            "IsLeaf": true,
+            "Src Line": 51,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassaSERKS0_",
+            "IsLeaf": true,
+            "Src Line": 51,
+            "Src Column": 36,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 20,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 21,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 25,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_good1.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EEC2ERKSA_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_bad.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 20,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_bad.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 21,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_bad.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 25,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_bad.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_assignment_op_01_bad.cpp",
+            "Function": "_ZN39CWE415_Double_Free__no_assignment_op_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE17_M_insert_unique_INS9_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS3_ESt23_Rb_tree_const_iteratorIS3_ERKS3_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS3_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIP14_twoIntsStructSaIS2_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP14_twoIntsStructE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP14_twoIntsStructE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_bad.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 20,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_bad.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 21,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_bad.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 25,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_bad.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_bad.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_018BadClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPcSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPcSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPcSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPcSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPPcmS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES5_T0_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPPcS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S7_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPiSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIPiSaIS0_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS0_S2_EEmRKS0_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPiSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIPiSaIS0_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPPimS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES5_T0_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPPiS0_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S7_RKS4_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EEC2ERKS9_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPiESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE17_M_insert_unique_INSA_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS4_ESt23_Rb_tree_const_iteratorIS4_ERKS4_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIP12TwoIntsClassSaIS2_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP12TwoIntsClassE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP12TwoIntsClassE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_good1.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 20,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_good1.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 21,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_good1.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 25,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_good1.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE415_Double_Free/s02/CWE415_Double_Free__no_copy_const_01_good1.cpp",
+            "Function": "_ZN36CWE415_Double_Free__no_copy_const_019GoodClassC2EPKc",
+            "IsLeaf": true,
+            "Src Line": 26,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE17_M_insert_unique_INS9_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS3_ESt23_Rb_tree_const_iteratorIS3_ERKS3_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS3_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EEC2ERKS9_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiPcESt10_Select1stIS3_ESt4lessIiESaIS3_EE7_M_copyINS9_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS3_EPKSD_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP14_twoIntsStructSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP14_twoIntsStructSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP14_twoIntsStructSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP14_twoIntsStructSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPP14_twoIntsStructmS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES6_T0_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPP14_twoIntsStructS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S8_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIPcSaIS1_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPcE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPcE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EEC2ERKSA_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP12TwoIntsClassESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIPlSaIS1_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPlE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIPlE9constructEPS1_RKS1_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "printBytesLine",
+            "IsLeaf": true,
+            "Src Line": 97,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexChars",
+            "IsLeaf": true,
+            "Src Line": 113,
+            "Src Column": 37,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexChars",
+            "IsLeaf": true,
+            "Src Line": 113,
+            "Src Column": 37,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexWChars",
+            "IsLeaf": true,
+            "Src Line": 135,
+            "Src Column": 47,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 64,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 65,
+            "Src Column": 5,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 86,
+            "Src Column": 5,
+            "Slice": [
+                -2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,781 @@
+{
+    "Function MetaData": [
+        {
+            "FunctionName": "parse_environment",
+            "FirstLineNumber": 670,
+            "LastLineNumber": 747,
+            "NodeBaseNum": 386,
+            "ParentNodeNum": 366
+        },
+        {
+            "FunctionName": "parse_real",
+            "FirstLineNumber": 69,
+            "LastLineNumber": 665,
+            "NodeBaseNum": 6363,
+            "ParentNodeNum": 6070
+        },
+        {
+            "FunctionName": "parse_memlimit",
+            "FirstLineNumber": 35,
+            "LastLineNumber": 64,
+            "NodeBaseNum": 344,
+            "ParentNodeNum": 225
+        },
+        {
+            "FunctionName": "coder_set_check",
+            "FirstLineNumber": 91,
+            "LastLineNumber": 95,
+            "NodeBaseNum": 31,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "coder_set_preset",
+            "FirstLineNumber": 104,
+            "LastLineNumber": 120,
+            "NodeBaseNum": 55,
+            "ParentNodeNum": 35
+        },
+        {
+            "FunctionName": "coder_set_extreme",
+            "FirstLineNumber": 104,
+            "LastLineNumber": 129,
+            "NodeBaseNum": 52,
+            "ParentNodeNum": 32
+        },
+        {
+            "FunctionName": "coder_add_filter",
+            "FirstLineNumber": 104,
+            "LastLineNumber": 155,
+            "NodeBaseNum": 155,
+            "ParentNodeNum": 124
+        },
+        {
+            "FunctionName": "coder_add_filters_from_str",
+            "FirstLineNumber": 104,
+            "LastLineNumber": 205,
+            "NodeBaseNum": 158,
+            "ParentNodeNum": 109
+        },
+        {
+            "FunctionName": "coder_add_block_filters",
+            "FirstLineNumber": 210,
+            "LastLineNumber": 219,
+            "NodeBaseNum": 141,
+            "ParentNodeNum": 96
+        },
+        {
+            "FunctionName": "coder_set_compression_settings",
+            "FirstLineNumber": 247,
+            "LastLineNumber": 904,
+            "NodeBaseNum": 6332,
+            "ParentNodeNum": 7272
+        },
+        {
+            "FunctionName": "coder_run",
+            "FirstLineNumber": 738,
+            "LastLineNumber": 1454,
+            "NodeBaseNum": 4188,
+            "ParentNodeNum": 4149
+        },
+        {
+            "FunctionName": "str_to_filters",
+            "FirstLineNumber": 160,
+            "LastLineNumber": 182,
+            "NodeBaseNum": 252,
+            "ParentNodeNum": 150
+        },
+        {
+            "FunctionName": "memlimit_too_small",
+            "FirstLineNumber": 224,
+            "LastLineNumber": 229,
+            "NodeBaseNum": 171,
+            "ParentNodeNum": 96
+        },
+        {
+            "FunctionName": "is_format_lzma",
+            "FirstLineNumber": 748,
+            "LastLineNumber": 788,
+            "NodeBaseNum": 235,
+            "ParentNodeNum": 225
+        },
+        {
+            "FunctionName": "io_init",
+            "FirstLineNumber": 113,
+            "LastLineNumber": 141,
+            "NodeBaseNum": 206,
+            "ParentNodeNum": 146
+        },
+        {
+            "FunctionName": "io_write_to_user_abort_pipe",
+            "FirstLineNumber": 154,
+            "LastLineNumber": 157,
+            "NodeBaseNum": 33,
+            "ParentNodeNum": 16
+        },
+        {
+            "FunctionName": "io_no_sparse",
+            "FirstLineNumber": 166,
+            "LastLineNumber": 166,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 13
+        },
+        {
+            "FunctionName": "io_open_src",
+            "FirstLineNumber": 450,
+            "LastLineNumber": 730,
+            "NodeBaseNum": 1105,
+            "ParentNodeNum": 893
+        },
+        {
+            "FunctionName": "io_open_dest",
+            "FirstLineNumber": 467,
+            "LastLineNumber": 973,
+            "NodeBaseNum": 716,
+            "ParentNodeNum": 603
+        },
+        {
+            "FunctionName": "io_close",
+            "FirstLineNumber": 293,
+            "LastLineNumber": 1073,
+            "NodeBaseNum": 1326,
+            "ParentNodeNum": 1109
+        },
+        {
+            "FunctionName": "io_fix_src_pos",
+            "FirstLineNumber": 1078,
+            "LastLineNumber": 1088,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "io_read",
+            "FirstLineNumber": 1093,
+            "LastLineNumber": 1158,
+            "NodeBaseNum": 782,
+            "ParentNodeNum": 777
+        },
+        {
+            "FunctionName": "io_seek_src",
+            "FirstLineNumber": 1162,
+            "LastLineNumber": 1181,
+            "NodeBaseNum": 186,
+            "ParentNodeNum": 124
+        },
+        {
+            "FunctionName": "io_pread",
+            "FirstLineNumber": 1185,
+            "LastLineNumber": 1203,
+            "NodeBaseNum": 315,
+            "ParentNodeNum": 196
+        },
+        {
+            "FunctionName": "args_parse",
+            "FirstLineNumber": 751,
+            "LastLineNumber": 888,
+            "NodeBaseNum": 843,
+            "ParentNodeNum": 798
+        },
+        {
+            "FunctionName": "io_write",
+            "FirstLineNumber": 1211,
+            "LastLineNumber": 1317,
+            "NodeBaseNum": 400,
+            "ParentNodeNum": 363
+        },
+        {
+            "FunctionName": "io_wait",
+            "FirstLineNumber": 182,
+            "LastLineNumber": 220,
+            "NodeBaseNum": 294,
+            "ParentNodeNum": 280
+        },
+        {
+            "FunctionName": "io_write_buf",
+            "FirstLineNumber": 1220,
+            "LastLineNumber": 1267,
+            "NodeBaseNum": 588,
+            "ParentNodeNum": 597
+        },
+        {
+            "FunctionName": "io_unlink",
+            "FirstLineNumber": 231,
+            "LastLineNumber": 462,
+            "NodeBaseNum": 241,
+            "ParentNodeNum": 177
+        },
+        {
+            "FunctionName": "hardware_threads_set",
+            "FirstLineNumber": 61,
+            "LastLineNumber": 92,
+            "NodeBaseNum": 87,
+            "ParentNodeNum": 87
+        },
+        {
+            "FunctionName": "hardware_threads_get",
+            "FirstLineNumber": 99,
+            "LastLineNumber": 99,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 14
+        },
+        {
+            "FunctionName": "hardware_threads_is_mt",
+            "FirstLineNumber": 107,
+            "LastLineNumber": 107,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "hardware_memlimit_set",
+            "FirstLineNumber": 115,
+            "LastLineNumber": 170,
+            "NodeBaseNum": 65,
+            "ParentNodeNum": 45
+        },
+        {
+            "FunctionName": "hardware_memlimit_get",
+            "FirstLineNumber": 175,
+            "LastLineNumber": 185,
+            "NodeBaseNum": 44,
+            "ParentNodeNum": 30
+        },
+        {
+            "FunctionName": "hardware_memlimit_mtenc_get",
+            "FirstLineNumber": 175,
+            "LastLineNumber": 201,
+            "NodeBaseNum": 50,
+            "ParentNodeNum": 36
+        },
+        {
+            "FunctionName": "hardware_memlimit_mtenc_is_default",
+            "FirstLineNumber": 201,
+            "LastLineNumber": 201,
+            "NodeBaseNum": 37,
+            "ParentNodeNum": 22
+        },
+        {
+            "FunctionName": "hardware_memlimit_mtdec_get",
+            "FirstLineNumber": 208,
+            "LastLineNumber": 218,
+            "NodeBaseNum": 49,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "hardware_memlimit_show",
+            "FirstLineNumber": 82,
+            "LastLineNumber": 306,
+            "NodeBaseNum": 382,
+            "ParentNodeNum": 296
+        },
+        {
+            "FunctionName": "hardware_init",
+            "FirstLineNumber": 61,
+            "LastLineNumber": 340,
+            "NodeBaseNum": 56,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "memlimit_show",
+            "FirstLineNumber": 224,
+            "LastLineNumber": 243,
+            "NodeBaseNum": 113,
+            "ParentNodeNum": 64
+        },
+        {
+            "FunctionName": "set_exit_status",
+            "FirstLineNumber": 31,
+            "LastLineNumber": 46,
+            "NodeBaseNum": 36,
+            "ParentNodeNum": 21
+        },
+        {
+            "FunctionName": "set_exit_no_warn",
+            "FirstLineNumber": 54,
+            "LastLineNumber": 54,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 13
+        },
+        {
+            "FunctionName": "main",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 366,
+            "NodeBaseNum": 2325,
+            "ParentNodeNum": 2341
+        },
+        {
+            "FunctionName": "message_init",
+            "FirstLineNumber": 122,
+            "LastLineNumber": 138,
+            "NodeBaseNum": 105,
+            "ParentNodeNum": 72
+        },
+        {
+            "FunctionName": "message_signal_handler",
+            "FirstLineNumber": 785,
+            "LastLineNumber": 785,
+            "NodeBaseNum": 73,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "message_verbosity_increase",
+            "FirstLineNumber": 144,
+            "LastLineNumber": 147,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "message_verbosity_decrease",
+            "FirstLineNumber": 154,
+            "LastLineNumber": 157,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "message_verbosity_get",
+            "FirstLineNumber": 164,
+            "LastLineNumber": 164,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 14
+        },
+        {
+            "FunctionName": "message_set_files",
+            "FirstLineNumber": 169,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 27,
+            "ParentNodeNum": 13
+        },
+        {
+            "FunctionName": "message_filename",
+            "FirstLineNumber": 213,
+            "LastLineNumber": 225,
+            "NodeBaseNum": 180,
+            "ParentNodeNum": 129
+        },
+        {
+            "FunctionName": "message_progress_start",
+            "FirstLineNumber": 230,
+            "LastLineNumber": 266,
+            "NodeBaseNum": 68,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "message_progress_update",
+            "FirstLineNumber": 272,
+            "LastLineNumber": 603,
+            "NodeBaseNum": 714,
+            "ParentNodeNum": 647
+        },
+        {
+            "FunctionName": "message_progress_end",
+            "FirstLineNumber": 685,
+            "LastLineNumber": 690,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 14
+        },
+        {
+            "FunctionName": "message",
+            "FirstLineNumber": 727,
+            "LastLineNumber": 733,
+            "NodeBaseNum": 97,
+            "ParentNodeNum": 59
+        },
+        {
+            "FunctionName": "message_warning",
+            "FirstLineNumber": 738,
+            "LastLineNumber": 746,
+            "NodeBaseNum": 106,
+            "ParentNodeNum": 64
+        },
+        {
+            "FunctionName": "message_error",
+            "FirstLineNumber": 751,
+            "LastLineNumber": 759,
+            "NodeBaseNum": 106,
+            "ParentNodeNum": 64
+        },
+        {
+            "FunctionName": "message_fatal",
+            "FirstLineNumber": 764,
+            "LastLineNumber": 771,
+            "NodeBaseNum": 99,
+            "ParentNodeNum": 58
+        },
+        {
+            "FunctionName": "message_bug",
+            "FirstLineNumber": 778,
+            "LastLineNumber": 778,
+            "NodeBaseNum": 73,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "message_strm",
+            "FirstLineNumber": 790,
+            "LastLineNumber": 838,
+            "NodeBaseNum": 185,
+            "ParentNodeNum": 177
+        },
+        {
+            "FunctionName": "message_mem_needed",
+            "FirstLineNumber": 842,
+            "LastLineNumber": 890,
+            "NodeBaseNum": 301,
+            "ParentNodeNum": 196
+        },
+        {
+            "FunctionName": "message_filters_show",
+            "FirstLineNumber": 894,
+            "LastLineNumber": 908,
+            "NodeBaseNum": 177,
+            "ParentNodeNum": 118
+        },
+        {
+            "FunctionName": "message_try_help",
+            "FirstLineNumber": 916,
+            "LastLineNumber": 918,
+            "NodeBaseNum": 94,
+            "ParentNodeNum": 54
+        },
+        {
+            "FunctionName": "message_version",
+            "FirstLineNumber": 927,
+            "LastLineNumber": 935,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 44
+        },
+        {
+            "FunctionName": "message_help",
+            "FirstLineNumber": 940,
+            "LastLineNumber": 1146,
+            "NodeBaseNum": 270,
+            "ParentNodeNum": 116
+        },
+        {
+            "FunctionName": "message_filters_help",
+            "FirstLineNumber": 1153,
+            "LastLineNumber": 1171,
+            "NodeBaseNum": 121,
+            "ParentNodeNum": 70
+        },
+        {
+            "FunctionName": "progress_signal_handler",
+            "FirstLineNumber": 95,
+            "LastLineNumber": 98,
+            "NodeBaseNum": 28,
+            "ParentNodeNum": 13
+        },
+        {
+            "FunctionName": "print_filename",
+            "FirstLineNumber": 183,
+            "LastLineNumber": 208,
+            "NodeBaseNum": 188,
+            "ParentNodeNum": 141
+        },
+        {
+            "FunctionName": "progress_sizes",
+            "FirstLineNumber": 300,
+            "LastLineNumber": 324,
+            "NodeBaseNum": 210,
+            "ParentNodeNum": 150
+        },
+        {
+            "FunctionName": "progress_remaining",
+            "FirstLineNumber": 404,
+            "LastLineNumber": 485,
+            "NodeBaseNum": 289,
+            "ParentNodeNum": 292
+        },
+        {
+            "FunctionName": "progress_flush",
+            "FirstLineNumber": 272,
+            "LastLineNumber": 681,
+            "NodeBaseNum": 983,
+            "ParentNodeNum": 1008
+        },
+        {
+            "FunctionName": "vmessage",
+            "FirstLineNumber": 695,
+            "LastLineNumber": 722,
+            "NodeBaseNum": 109,
+            "ParentNodeNum": 59
+        },
+        {
+            "FunctionName": "mytime_sigtstp_handler",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 115,
+            "NodeBaseNum": 154,
+            "ParentNodeNum": 146
+        },
+        {
+            "FunctionName": "mytime_set_start_time",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 136,
+            "NodeBaseNum": 116,
+            "ParentNodeNum": 87
+        },
+        {
+            "FunctionName": "mytime_get_elapsed",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 153,
+            "NodeBaseNum": 120,
+            "ParentNodeNum": 91
+        },
+        {
+            "FunctionName": "mytime_set_flush_time",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 161,
+            "NodeBaseNum": 89,
+            "ParentNodeNum": 73
+        },
+        {
+            "FunctionName": "mytime_get_flush_timeout",
+            "FirstLineNumber": 70,
+            "LastLineNumber": 177,
+            "NodeBaseNum": 134,
+            "ParentNodeNum": 126
+        },
+        {
+            "FunctionName": "options_delta",
+            "FirstLineNumber": 164,
+            "LastLineNumber": 181,
+            "NodeBaseNum": 241,
+            "ParentNodeNum": 143
+        },
+        {
+            "FunctionName": "options_bcj",
+            "FirstLineNumber": 208,
+            "LastLineNumber": 222,
+            "NodeBaseNum": 226,
+            "ParentNodeNum": 132
+        },
+        {
+            "FunctionName": "options_lzma",
+            "FirstLineNumber": 317,
+            "LastLineNumber": 357,
+            "NodeBaseNum": 320,
+            "ParentNodeNum": 191
+        },
+        {
+            "FunctionName": "set_delta",
+            "FirstLineNumber": 151,
+            "LastLineNumber": 160,
+            "NodeBaseNum": 42,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "parse_options",
+            "FirstLineNumber": 59,
+            "LastLineNumber": 138,
+            "NodeBaseNum": 1124,
+            "ParentNodeNum": 1182
+        },
+        {
+            "FunctionName": "set_bcj",
+            "FirstLineNumber": 195,
+            "LastLineNumber": 204,
+            "NodeBaseNum": 40,
+            "ParentNodeNum": 24
+        },
+        {
+            "FunctionName": "set_lzma",
+            "FirstLineNumber": 252,
+            "LastLineNumber": 313,
+            "NodeBaseNum": 461,
+            "ParentNodeNum": 433
+        },
+        {
+            "FunctionName": "error_lzma_preset",
+            "FirstLineNumber": 245,
+            "LastLineNumber": 247,
+            "NodeBaseNum": 74,
+            "ParentNodeNum": 40
+        },
+        {
+            "FunctionName": "signals_init",
+            "FirstLineNumber": 78,
+            "LastLineNumber": 133,
+            "NodeBaseNum": 372,
+            "ParentNodeNum": 356
+        },
+        {
+            "FunctionName": "signals_block",
+            "FirstLineNumber": 143,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 59,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "signals_unblock",
+            "FirstLineNumber": 158,
+            "LastLineNumber": 172,
+            "NodeBaseNum": 59,
+            "ParentNodeNum": 38
+        },
+        {
+            "FunctionName": "signals_exit",
+            "FirstLineNumber": 176,
+            "LastLineNumber": 194,
+            "NodeBaseNum": 47,
+            "ParentNodeNum": 29
+        },
+        {
+            "FunctionName": "signal_handler",
+            "FirstLineNumber": 39,
+            "LastLineNumber": 48,
+            "NodeBaseNum": 36,
+            "ParentNodeNum": 18
+        },
+        {
+            "FunctionName": "suffix_get_dest_name",
+            "FirstLineNumber": 38,
+            "LastLineNumber": 383,
+            "NodeBaseNum": 1120,
+            "ParentNodeNum": 1242
+        },
+        {
+            "FunctionName": "suffix_set",
+            "FirstLineNumber": 50,
+            "LastLineNumber": 398,
+            "NodeBaseNum": 143,
+            "ParentNodeNum": 87
+        },
+        {
+            "FunctionName": "suffix_is_set",
+            "FirstLineNumber": 405,
+            "LastLineNumber": 405,
+            "NodeBaseNum": 31,
+            "ParentNodeNum": 17
+        },
+        {
+            "FunctionName": "xrealloc",
+            "FirstLineNumber": 60,
+            "LastLineNumber": 78,
+            "NodeBaseNum": 88,
+            "ParentNodeNum": 51
+        },
+        {
+            "FunctionName": "xstrdup",
+            "FirstLineNumber": 60,
+            "LastLineNumber": 88,
+            "NodeBaseNum": 115,
+            "ParentNodeNum": 82
+        },
+        {
+            "FunctionName": "str_to_uint64",
+            "FirstLineNumber": 93,
+            "LastLineNumber": 170,
+            "NodeBaseNum": 722,
+            "ParentNodeNum": 743
+        },
+        {
+            "FunctionName": "round_up_to_mib",
+            "FirstLineNumber": 174,
+            "LastLineNumber": 176,
+            "NodeBaseNum": 38,
+            "ParentNodeNum": 26
+        },
+        {
+            "FunctionName": "uint64_to_str",
+            "FirstLineNumber": 46,
+            "LastLineNumber": 190,
+            "NodeBaseNum": 86,
+            "ParentNodeNum": 64
+        },
+        {
+            "FunctionName": "uint64_to_nicestr",
+            "FirstLineNumber": 46,
+            "LastLineNumber": 234,
+            "NodeBaseNum": 361,
+            "ParentNodeNum": 388
+        },
+        {
+            "FunctionName": "my_snprintf",
+            "FirstLineNumber": 239,
+            "LastLineNumber": 259,
+            "NodeBaseNum": 79,
+            "ParentNodeNum": 62
+        },
+        {
+            "FunctionName": "is_tty",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 279,
+            "NodeBaseNum": 29,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "is_tty_stdin",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 293,
+            "NodeBaseNum": 108,
+            "ParentNodeNum": 66
+        },
+        {
+            "FunctionName": "is_tty_stdout",
+            "FirstLineNumber": 264,
+            "LastLineNumber": 306,
+            "NodeBaseNum": 109,
+            "ParentNodeNum": 66
+        },
+        {
+            "FunctionName": "tuklib_open_stdxxx",
+            "FirstLineNumber": 23,
+            "LastLineNumber": 55,
+            "NodeBaseNum": 154,
+            "ParentNodeNum": 156
+        },
+        {
+            "FunctionName": "tuklib_progname_init",
+            "FirstLineNumber": 22,
+            "LastLineNumber": 48,
+            "NodeBaseNum": 30,
+            "ParentNodeNum": 15
+        },
+        {
+            "FunctionName": "tuklib_exit",
+            "FirstLineNumber": 24,
+            "LastLineNumber": 56,
+            "NodeBaseNum": 103,
+            "ParentNodeNum": 82
+        },
+        {
+            "FunctionName": "tuklib_mbstr_width",
+            "FirstLineNumber": 21,
+            "LastLineNumber": 64,
+            "NodeBaseNum": 130,
+            "ParentNodeNum": 137
+        },
+        {
+            "FunctionName": "tuklib_mbstr_fw",
+            "FirstLineNumber": 16,
+            "LastLineNumber": 30,
+            "NodeBaseNum": 76,
+            "ParentNodeNum": 65
+        },
+        {
+            "FunctionName": "list_totals",
+            "FirstLineNumber": 82,
+            "LastLineNumber": 1271,
+            "NodeBaseNum": 890,
+            "ParentNodeNum": 740
+        },
+        {
+            "FunctionName": "list_file",
+            "FirstLineNumber": 82,
+            "LastLineNumber": 1339,
+            "NodeBaseNum": 5370,
+            "ParentNodeNum": 4942
+        },
+        {
+            "FunctionName": "print_adv_helper",
+            "FirstLineNumber": 674,
+            "LastLineNumber": 797,
+            "NodeBaseNum": 412,
+            "ParentNodeNum": 277
+        },
+        {
+            "FunctionName": "parse_details",
+            "FirstLineNumber": 439,
+            "LastLineNumber": 667,
+            "NodeBaseNum": 1650,
+            "ParentNodeNum": 1682
+        }
+    ]
+}

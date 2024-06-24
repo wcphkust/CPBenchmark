@@ -1,0 +1,4710 @@
+{
+    "Intra data dependencies": [
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 683,
+            "Src Column": 21,
+            "Lines": [
+                -2,
+                672,
+                677
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 691,
+            "Src Column": 7,
+            "Lines": [
+                -2,
+                672,
+                677,
+                683
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 709,
+            "Src Column": 2,
+            "Lines": [
+                -1,
+                698,
+                708
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 710,
+            "Src Column": 2,
+            "Lines": [
+                698,
+                708
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 716,
+            "Src Column": 21,
+            "Lines": [
+                -2,
+                672,
+                677
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 716,
+            "Src Column": 21,
+            "Lines": [
+                -2,
+                672,
+                677
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 722,
+            "Src Column": 4,
+            "Lines": [
+                -2,
+                672,
+                677,
+                698,
+                708
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 717,
+            "Src Column": 7,
+            "Lines": [
+                -2,
+                672,
+                677,
+                716
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 719,
+            "Src Column": 4,
+            "Lines": [
+                -2,
+                672,
+                677
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_environment",
+            "IsLeaf": false,
+            "Src Line": 683,
+            "Src Column": 21,
+            "Lines": [
+                -2,
+                672,
+                677
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 136,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                108,
+                128,
+                135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 129,
+            "Src Column": 8,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 133,
+            "Src Column": 7,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 163,
+            "Src Column": 5,
+            "Lines": [
+                153
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 153,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                129
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 172,
+            "Src Column": 5,
+            "Lines": [
+                72,
+                129,
+                153
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 137,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                128,
+                135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 144,
+            "Src Column": 7,
+            "Lines": [
+                72,
+                129
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 93,
+            "Src Column": 2,
+            "Lines": [
+                83
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 81,
+            "Src Column": 21,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 136,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                108,
+                128,
+                135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 137,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                128,
+                135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 144,
+            "Src Column": 7,
+            "Lines": [
+                72,
+                129
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 76,
+            "Src Column": 6,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 105,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                103
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 128,
+            "Src Column": 7,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 128,
+            "Src Column": 41,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 129,
+            "Src Column": 8,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 623,
+            "Src Column": 4,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 628,
+            "Src Column": 8,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 153,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                129
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 163,
+            "Src Column": 5,
+            "Lines": [
+                153
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 172,
+            "Src Column": 5,
+            "Lines": [
+                72,
+                129,
+                153
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 637,
+            "Src Column": 5,
+            "Lines": [
+                0,
+                628,
+                633
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 638,
+            "Src Column": 5,
+            "Lines": [
+                -2,
+                -1,
+                0,
+                318,
+                635
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 81,
+            "Src Column": 21,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 128,
+            "Src Column": 7,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 128,
+            "Src Column": 41,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 638,
+            "Src Column": 5,
+            "Lines": [
+                -2,
+                -1,
+                0,
+                318,
+                635
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 185,
+            "Src Column": 2,
+            "Lines": [
+                83,
+                93
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 623,
+            "Src Column": 4,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 628,
+            "Src Column": 8,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 634,
+            "Src Column": 5,
+            "Lines": [
+                0,
+                628
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 635,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 637,
+            "Src Column": 5,
+            "Lines": [
+                0,
+                628,
+                633
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 362,
+            "Src Column": 8,
+            "Lines": [
+                361
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 76,
+            "Src Column": 6,
+            "Lines": [
+                72
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 93,
+            "Src Column": 2,
+            "Lines": [
+                83
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_real",
+            "IsLeaf": false,
+            "Src Line": 105,
+            "Src Column": 4,
+            "Lines": [
+                72,
+                103
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_memlimit",
+            "IsLeaf": false,
+            "Src Line": 51,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                41,
+                42,
+                50
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "parse_memlimit",
+            "IsLeaf": false,
+            "Src Line": 42,
+            "Src Column": 17,
+            "Lines": [
+                -2,
+                41
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_check",
+            "IsLeaf": true,
+            "Src Line": 93,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_preset",
+            "IsLeaf": true,
+            "Src Line": 118,
+            "Src Column": 2,
+            "Lines": [
+                0,
+                117
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_add_filter",
+            "IsLeaf": false,
+            "Src Line": 142,
+            "Src Column": 2,
+            "Lines": [
+                0,
+                136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_add_filter",
+            "IsLeaf": false,
+            "Src Line": 143,
+            "Src Column": 2,
+            "Lines": [
+                -1,
+                136,
+                142
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_add_filter",
+            "IsLeaf": false,
+            "Src Line": 147,
+            "Src Column": 12,
+            "Lines": [
+                136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_add_filter",
+            "IsLeaf": false,
+            "Src Line": 147,
+            "Src Column": 2,
+            "Lines": [
+                136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_add_block_filters",
+            "IsLeaf": false,
+            "Src Line": 218,
+            "Src Column": 2,
+            "Lines": [
+                -1,
+                213
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 308,
+            "Src Column": 4,
+            "Lines": [
+                307
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 659,
+            "Src Column": 10,
+            "Lines": [
+                647
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 659,
+            "Src Column": 10,
+            "Lines": [
+                647
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 702,
+            "Src Column": 4,
+            "Lines": [
+                647,
+                659,
+                676,
+                681,
+                682,
+                683
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 682,
+            "Src Column": 35,
+            "Lines": [
+                647,
+                659,
+                676,
+                681
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 702,
+            "Src Column": 4,
+            "Lines": [
+                647,
+                659,
+                676,
+                681,
+                682,
+                683
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 692,
+            "Src Column": 4,
+            "Lines": [
+                647,
+                653
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 711,
+            "Src Column": 39,
+            "Lines": [
+                647,
+                659,
+                676,
+                681,
+                682
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 711,
+            "Src Column": 39,
+            "Lines": [
+                659,
+                676,
+                681,
+                682
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 702,
+            "Src Column": 4,
+            "Lines": [
+                659,
+                676,
+                681,
+                682,
+                683
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 692,
+            "Src Column": 4,
+            "Lines": [
+                653
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 702,
+            "Src Column": 4,
+            "Lines": [
+                659,
+                676,
+                681,
+                682,
+                683
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 692,
+            "Src Column": 4,
+            "Lines": [
+                647,
+                653
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 692,
+            "Src Column": 4,
+            "Lines": [
+                647,
+                653
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 682,
+            "Src Column": 35,
+            "Lines": [
+                659,
+                676,
+                681
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 566,
+            "Src Column": 4,
+            "Lines": [
+                563
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 506,
+            "Src Column": 4,
+            "Lines": [
+                468,
+                478,
+                490,
+                501
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 345,
+            "Src Column": 3,
+            "Lines": [
+                320
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 653,
+            "Src Column": 7,
+            "Lines": [
+                647
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_set_compression_settings",
+            "IsLeaf": false,
+            "Src Line": 283,
+            "Src Column": 4,
+            "Lines": [
+                270
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 941,
+            "Src Column": 4,
+            "Lines": [
+                871,
+                879
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 837,
+            "Src Column": 4,
+            "Lines": [
+                823,
+                825
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 825,
+            "Src Column": 13,
+            "Lines": [
+                823
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1395,
+            "Src Column": 3,
+            "Lines": [
+                0,
+                1386
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1071,
+            "Src Column": 8,
+            "Lines": [
+                1066
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1176,
+            "Src Column": 26,
+            "Lines": [
+                1175
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1135,
+            "Src Column": 23,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1367,
+            "Src Column": 3,
+            "Lines": [
+                1366
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1370,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1433,
+            "Src Column": 8,
+            "Lines": [
+                0,
+                1386
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1294,
+            "Src Column": 32,
+            "Lines": [
+                0,
+                1135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1299,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1323,
+            "Src Column": 32,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 849,
+            "Src Column": 6,
+            "Lines": [
+                823,
+                825
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1246,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1247,
+            "Src Column": 5,
+            "Lines": [
+                0,
+                1220
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1220,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1203,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                1163,
+                1175,
+                1176,
+                1198
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1208,
+            "Src Column": 8,
+            "Lines": [
+                0,
+                1135
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1096,
+            "Src Column": 22,
+            "Lines": [
+                1066
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1006,
+            "Src Column": 34,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "coder_run",
+            "IsLeaf": false,
+            "Src Line": 1022,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "str_to_filters",
+            "IsLeaf": false,
+            "Src Line": 169,
+            "Src Column": 4,
+            "Lines": [
+                -1,
+                167
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/coder.c",
+            "Function": "is_format_lzma",
+            "IsLeaf": true,
+            "Src Line": 761,
+            "Src Column": 29,
+            "Lines": [
+                760
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 593,
+            "Src Column": 15,
+            "Lines": [
+                573
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 692,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 535,
+            "Src Column": 2,
+            "Lines": [
+                453,
+                489,
+                509
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 580,
+            "Src Column": 4,
+            "Lines": [
+                573
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 580,
+            "Src Column": 4,
+            "Lines": [
+                573
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_src",
+            "IsLeaf": false,
+            "Src Line": 705,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 780,
+            "Src Column": 20,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 782,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 783,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 808,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 840,
+            "Src Column": 9,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 808,
+            "Src Column": 42,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 959,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 856,
+            "Src Column": 9,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 861,
+            "Src Column": 12,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 851,
+            "Src Column": 3,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 854,
+            "Src Column": 31,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 851,
+            "Src Column": 24,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 839,
+            "Src Column": 6,
+            "Lines": [
+                0,
+                808
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 839,
+            "Src Column": 32,
+            "Lines": [
+                837
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 951,
+            "Src Column": 9,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 908,
+            "Src Column": 7,
+            "Lines": [
+                0,
+                861
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_open_dest",
+            "IsLeaf": false,
+            "Src Line": 909,
+            "Src Column": 9,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1008,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1012,
+            "Src Column": 13,
+            "Lines": [
+                0,
+                1008
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1013,
+            "Src Column": 8,
+            "Lines": [
+                0,
+                1008
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1058,
+            "Src Column": 17,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 308,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 321,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 330,
+            "Src Column": 12,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 335,
+            "Src Column": 10,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 338,
+            "Src Column": 13,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 340,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1032,
+            "Src Column": 17,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1033,
+            "Src Column": 7,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 305,
+            "Src Column": 28,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1020,
+            "Src Column": 13,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1022,
+            "Src Column": 7,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 754,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 770,
+            "Src Column": 14,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1003,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 317,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 317,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 318,
+            "Src Column": 14,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1045,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 1041,
+            "Src Column": 13,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 388,
+            "Src Column": 17,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 388,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 390,
+            "Src Column": 17,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 390,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_close",
+            "IsLeaf": false,
+            "Src Line": 393,
+            "Src Column": 17,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_fix_src_pos",
+            "IsLeaf": true,
+            "Src Line": 1085,
+            "Src Column": 15,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1122,
+            "Src Column": 25,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1101,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1101,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1104,
+            "Src Column": 4,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1122,
+            "Src Column": 25,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1134,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1144,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1144,
+            "Src Column": 31,
+            "Lines": [
+                1109
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1151,
+            "Src Column": 8,
+            "Lines": [
+                0,
+                1122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_read",
+            "IsLeaf": false,
+            "Src Line": 1152,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                1122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_seek_src",
+            "IsLeaf": false,
+            "Src Line": 1169,
+            "Src Column": 23,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_seek_src",
+            "IsLeaf": false,
+            "Src Line": 1172,
+            "Src Column": 12,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_seek_src",
+            "IsLeaf": false,
+            "Src Line": 1174,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_seek_src",
+            "IsLeaf": false,
+            "Src Line": 1178,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_pread",
+            "IsLeaf": false,
+            "Src Line": 1198,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 791,
+            "Src Column": 26,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 792,
+            "Src Column": 26,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 761,
+            "Src Column": 30,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 875,
+            "Src Column": 6,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 849,
+            "Src Column": 7,
+            "Lines": [
+                0,
+                754
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 858,
+            "Src Column": 15,
+            "Lines": [
+                -2,
+                857
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 884,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0,
+                875
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 885,
+            "Src Column": 3,
+            "Lines": [
+                -1,
+                0,
+                875
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 875,
+            "Src Column": 30,
+            "Lines": [
+                0,
+                754
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 879,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/args.c",
+            "Function": "args_parse",
+            "IsLeaf": false,
+            "Src Line": 880,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1212,
+            "Src Column": 7,
+            "Lines": [
+                -1,
+                1211
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1275,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1312,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                1302
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1212,
+            "Src Column": 7,
+            "Lines": [
+                -1,
+                1211
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1212,
+            "Src Column": 7,
+            "Lines": [
+                -1,
+                1211
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1293,
+            "Src Column": 5,
+            "Lines": [
+                0,
+                1291
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1302,
+            "Src Column": 7,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1303,
+            "Src Column": 14,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1307,
+            "Src Column": 20,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1212,
+            "Src Column": 7,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write",
+            "IsLeaf": false,
+            "Src Line": 1291,
+            "Src Column": 26,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_wait",
+            "IsLeaf": false,
+            "Src Line": 190,
+            "Src Column": 15,
+            "Lines": [
+                -2,
+                0,
+                186,
+                187
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_wait",
+            "IsLeaf": false,
+            "Src Line": 208,
+            "Src Column": 6,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_wait",
+            "IsLeaf": false,
+            "Src Line": 210,
+            "Src Column": 15,
+            "Lines": [
+                204
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write_buf",
+            "IsLeaf": false,
+            "Src Line": 1225,
+            "Src Column": 32,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write_buf",
+            "IsLeaf": false,
+            "Src Line": 1225,
+            "Src Column": 32,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write_buf",
+            "IsLeaf": false,
+            "Src Line": 1257,
+            "Src Column": 32,
+            "Lines": [
+                1227
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_write_buf",
+            "IsLeaf": false,
+            "Src Line": 1257,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_unlink",
+            "IsLeaf": false,
+            "Src Line": 260,
+            "Src Column": 24,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/file_io.c",
+            "Function": "io_unlink",
+            "IsLeaf": false,
+            "Src Line": 261,
+            "Src Column": 24,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_threads_set",
+            "IsLeaf": true,
+            "Src Line": 81,
+            "Src Column": 4,
+            "Lines": [
+                79,
+                80
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_threads_set",
+            "IsLeaf": true,
+            "Src Line": 89,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_memlimit_set",
+            "IsLeaf": true,
+            "Src Line": 126,
+            "Src Column": 3,
+            "Lines": [
+                0,
+                122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_memlimit_set",
+            "IsLeaf": true,
+            "Src Line": 165,
+            "Src Column": 3,
+            "Lines": [
+                0,
+                122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_memlimit_set",
+            "IsLeaf": true,
+            "Src Line": 168,
+            "Src Column": 3,
+            "Lines": [
+                0,
+                122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_init",
+            "IsLeaf": true,
+            "Src Line": 317,
+            "Src Column": 3,
+            "Lines": [
+                315,
+                316
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_init",
+            "IsLeaf": true,
+            "Src Line": 322,
+            "Src Column": 2,
+            "Lines": [
+                315,
+                316
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/hardware.c",
+            "Function": "hardware_init",
+            "IsLeaf": true,
+            "Src Line": 81,
+            "Src Column": 4,
+            "Lines": [
+                79,
+                80
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "set_exit_status",
+            "IsLeaf": true,
+            "Src Line": 40,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 288,
+            "Src Column": 8,
+            "Lines": [
+                196
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 301,
+            "Src Column": 4,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 305,
+            "Src Column": 7,
+            "Lines": [
+                274
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 311,
+            "Src Column": 6,
+            "Lines": [
+                196
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 83,
+            "Src Column": 14,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 90,
+            "Src Column": 33,
+            "Lines": [
+                86
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 83,
+            "Src Column": 14,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 127,
+            "Src Column": 3,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 133,
+            "Src Column": 4,
+            "Lines": [
+                127
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 134,
+            "Src Column": 4,
+            "Lines": [
+                127,
+                133
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 324,
+            "Src Column": 7,
+            "Lines": [
+                196
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 325,
+            "Src Column": 17,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 83,
+            "Src Column": 14,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 83,
+            "Src Column": 14,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 127,
+            "Src Column": 3,
+            "Lines": [
+                81
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 133,
+            "Src Column": 4,
+            "Lines": [
+                127
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/main.c",
+            "Function": "main",
+            "IsLeaf": false,
+            "Src Line": 134,
+            "Src Column": 4,
+            "Lines": [
+                127,
+                133
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_verbosity_increase",
+            "IsLeaf": true,
+            "Src Line": 145,
+            "Src Column": 3,
+            "Lines": [
+                144
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_verbosity_decrease",
+            "IsLeaf": true,
+            "Src Line": 155,
+            "Src Column": 3,
+            "Lines": [
+                154
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_set_files",
+            "IsLeaf": true,
+            "Src Line": 171,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_filename",
+            "IsLeaf": false,
+            "Src Line": 217,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_progress_start",
+            "IsLeaf": true,
+            "Src Line": 234,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_progress_start",
+            "IsLeaf": true,
+            "Src Line": 235,
+            "Src Column": 2,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_progress_start",
+            "IsLeaf": true,
+            "Src Line": 241,
+            "Src Column": 2,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_progress_update",
+            "IsLeaf": false,
+            "Src Line": 499,
+            "Src Column": 13,
+            "Lines": [
+                498
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "message_progress_update",
+            "IsLeaf": false,
+            "Src Line": 499,
+            "Src Column": 3,
+            "Lines": [
+                498
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "progress_flush",
+            "IsLeaf": false,
+            "Src Line": 658,
+            "Src Column": 8,
+            "Lines": [
+                657
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "progress_flush",
+            "IsLeaf": false,
+            "Src Line": 499,
+            "Src Column": 13,
+            "Lines": [
+                498
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "progress_flush",
+            "IsLeaf": false,
+            "Src Line": 499,
+            "Src Column": 3,
+            "Lines": [
+                498
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "progress_flush",
+            "IsLeaf": false,
+            "Src Line": 668,
+            "Src Column": 7,
+            "Lines": [
+                667
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/message.c",
+            "Function": "progress_flush",
+            "IsLeaf": false,
+            "Src Line": 672,
+            "Src Column": 7,
+            "Lines": [
+                671
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/mytime.c",
+            "Function": "mytime_sigtstp_handler",
+            "IsLeaf": true,
+            "Src Line": 114,
+            "Src Column": 2,
+            "Lines": [
+                83
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/mytime.c",
+            "Function": "mytime_set_start_time",
+            "IsLeaf": false,
+            "Src Line": 130,
+            "Src Column": 2,
+            "Lines": [
+                83
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/mytime.c",
+            "Function": "mytime_set_flush_time",
+            "IsLeaf": true,
+            "Src Line": 160,
+            "Src Column": 2,
+            "Lines": [
+                83
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "options_delta",
+            "IsLeaf": false,
+            "Src Line": 173,
+            "Src Column": 2,
+            "Lines": [
+                172
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "options_delta",
+            "IsLeaf": false,
+            "Src Line": 173,
+            "Src Column": 2,
+            "Lines": [
+                172
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "options_bcj",
+            "IsLeaf": false,
+            "Src Line": 216,
+            "Src Column": 2,
+            "Lines": [
+                215
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "options_lzma",
+            "IsLeaf": false,
+            "Src Line": 354,
+            "Src Column": 6,
+            "Lines": [
+                348
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "options_lzma",
+            "IsLeaf": false,
+            "Src Line": 354,
+            "Src Column": 20,
+            "Lines": [
+                348
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_delta",
+            "IsLeaf": true,
+            "Src Line": 157,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 106,
+            "Src Column": 16,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 82,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                67,
+                72,
+                76,
+                80
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 84,
+            "Src Column": 24,
+            "Lines": [
+                0,
+                67,
+                72,
+                76,
+                80,
+                82
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 91,
+            "Src Column": 8,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 102,
+            "Src Column": 7,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 70,
+            "Src Column": 9,
+            "Lines": [
+                0,
+                67
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                67,
+                72,
+                76
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 91,
+            "Src Column": 8,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 106,
+            "Src Column": 16,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 115,
+            "Src Column": 27,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 117,
+            "Src Column": 14,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 125,
+            "Src Column": 19,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 102,
+            "Src Column": 7,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 64,
+            "Src Column": 21,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 70,
+            "Src Column": 9,
+            "Lines": [
+                0,
+                67
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                67,
+                76
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 82,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                67,
+                80
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 84,
+            "Src Column": 24,
+            "Lines": [
+                0,
+                67,
+                80,
+                82
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 91,
+            "Src Column": 8,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 91,
+            "Src Column": 8,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 106,
+            "Src Column": 16,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 106,
+            "Src Column": 16,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 115,
+            "Src Column": 27,
+            "Lines": [
+                -1,
+                102
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 117,
+            "Src Column": 14,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "parse_options",
+            "IsLeaf": false,
+            "Src Line": 125,
+            "Src Column": 19,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_bcj",
+            "IsLeaf": true,
+            "Src Line": 201,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 258,
+            "Src Column": 7,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 265,
+            "Src Column": 7,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 271,
+            "Src Column": 8,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 282,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 286,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 290,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 294,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 298,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 302,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 306,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/options.c",
+            "Function": "set_lzma",
+            "IsLeaf": false,
+            "Src Line": 310,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/signals.c",
+            "Function": "signals_init",
+            "IsLeaf": false,
+            "Src Line": 124,
+            "Src Column": 3,
+            "Lines": [
+                105
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/signals.c",
+            "Function": "signals_block",
+            "IsLeaf": true,
+            "Src Line": 147,
+            "Src Column": 4,
+            "Lines": [
+                145
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/signals.c",
+            "Function": "signals_unblock",
+            "IsLeaf": true,
+            "Src Line": 164,
+            "Src Column": 4,
+            "Lines": [
+                162
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/signals.c",
+            "Function": "signal_handler",
+            "IsLeaf": false,
+            "Src Line": 41,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 238,
+            "Src Column": 21,
+            "Lines": [
+                234,
+                235
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0,
+                97
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 238,
+            "Src Column": 21,
+            "Lines": [
+                234
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0,
+                97
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 263,
+            "Src Column": 22,
+            "Lines": [
+                234,
+                235
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 366,
+            "Src Column": 2,
+            "Lines": [
+                0,
+                234,
+                235,
+                255,
+                262,
+                263,
+                264,
+                362
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0,
+                97
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 175,
+            "Src Column": 2,
+            "Lines": [
+                0,
+                97,
+                103,
+                144,
+                170,
+                171
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_get_dest_name",
+            "IsLeaf": false,
+            "Src Line": 103,
+            "Src Column": 18,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_set",
+            "IsLeaf": false,
+            "Src Line": 397,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/suffix.c",
+            "Function": "suffix_set",
+            "IsLeaf": false,
+            "Src Line": 392,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "str_to_uint64",
+            "IsLeaf": false,
+            "Src Line": 98,
+            "Src Column": 9,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "str_to_uint64",
+            "IsLeaf": false,
+            "Src Line": 98,
+            "Src Column": 9,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "str_to_uint64",
+            "IsLeaf": false,
+            "Src Line": 123,
+            "Src Column": 11,
+            "Lines": [
+                -1,
+                99,
+                122
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "str_to_uint64",
+            "IsLeaf": false,
+            "Src Line": 142,
+            "Src Column": 7,
+            "Lines": [
+                -1,
+                99,
+                139
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_str",
+            "IsLeaf": true,
+            "Src Line": 49,
+            "Src Column": 3,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_str",
+            "IsLeaf": true,
+            "Src Line": 51,
+            "Src Column": 14,
+            "Lines": [
+                -1,
+                49
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_str",
+            "IsLeaf": true,
+            "Src Line": 51,
+            "Src Column": 3,
+            "Lines": [
+                -1,
+                49
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_nicestr",
+            "IsLeaf": false,
+            "Src Line": 49,
+            "Src Column": 3,
+            "Lines": [
+                -4
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_nicestr",
+            "IsLeaf": false,
+            "Src Line": 51,
+            "Src Column": 14,
+            "Lines": [
+                -4,
+                49
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_nicestr",
+            "IsLeaf": false,
+            "Src Line": 51,
+            "Src Column": 3,
+            "Lines": [
+                -4,
+                49
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "uint64_to_nicestr",
+            "IsLeaf": false,
+            "Src Line": 206,
+            "Src Column": 8,
+            "Lines": [
+                -4,
+                49
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "my_snprintf",
+            "IsLeaf": true,
+            "Src Line": 243,
+            "Src Column": 28,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "my_snprintf",
+            "IsLeaf": true,
+            "Src Line": 243,
+            "Src Column": 34,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "my_snprintf",
+            "IsLeaf": true,
+            "Src Line": 252,
+            "Src Column": 34,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "my_snprintf",
+            "IsLeaf": true,
+            "Src Line": 255,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                -1,
+                0,
+                242,
+                243,
+                252
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/util.c",
+            "Function": "my_snprintf",
+            "IsLeaf": true,
+            "Src Line": 253,
+            "Src Column": 3,
+            "Lines": [
+                -2,
+                -1,
+                0,
+                242,
+                243,
+                252
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/common/tuklib_progname.c",
+            "Function": "tuklib_progname_init",
+            "IsLeaf": true,
+            "Src Line": 47,
+            "Src Column": 13,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/common/tuklib_progname.c",
+            "Function": "tuklib_progname_init",
+            "IsLeaf": true,
+            "Src Line": 47,
+            "Src Column": 2,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/common/tuklib_mbstr_width.c",
+            "Function": "tuklib_mbstr_width",
+            "IsLeaf": true,
+            "Src Line": 25,
+            "Src Column": 3,
+            "Lines": [
+                -1,
+                0,
+                23
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/common/tuklib_mbstr_fw.c",
+            "Function": "tuklib_mbstr_fw",
+            "IsLeaf": false,
+            "Src Line": 27,
+            "Src Column": 3,
+            "Lines": [
+                -1,
+                0,
+                19,
+                23
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 278,
+            "Src Column": 4,
+            "Lines": [
+                268,
+                272,
+                273
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 293,
+            "Src Column": 4,
+            "Lines": [
+                283,
+                287,
+                288,
+                292
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 297,
+            "Src Column": 3,
+            "Lines": [
+                283,
+                287,
+                288,
+                292,
+                293
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 349,
+            "Src Column": 6,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 350,
+            "Src Column": 41,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 356,
+            "Src Column": 5,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 757,
+            "Src Column": 3,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 242,
+            "Src Column": 16,
+            "Lines": [
+                231
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 242,
+            "Src Column": 4,
+            "Lines": [
+                231
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 251,
+            "Src Column": 3,
+            "Lines": [
+                231,
+                242,
+                244
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 860,
+            "Src Column": 5,
+            "Lines": [
+                858
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 859,
+            "Src Column": 14,
+            "Lines": [
+                857
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 882,
+            "Src Column": 23,
+            "Lines": [
+                861
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 972,
+            "Src Column": 6,
+            "Lines": [
+                969
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 971,
+            "Src Column": 15,
+            "Lines": [
+                968
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1051,
+            "Src Column": 23,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1055,
+            "Src Column": 28,
+            "Lines": [
+                401
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 994,
+            "Src Column": 7,
+            "Lines": [
+                973
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1026,
+            "Src Column": 4,
+            "Lines": [
+                1004
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1136,
+            "Src Column": 44,
+            "Lines": [
+                401
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1136,
+            "Src Column": 2,
+            "Lines": [
+                401
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1137,
+            "Src Column": 2,
+            "Lines": [
+                401,
+                1136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1117,
+            "Src Column": 4,
+            "Lines": [
+                1114
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1138,
+            "Src Column": 2,
+            "Lines": [
+                401,
+                1136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1139,
+            "Src Column": 2,
+            "Lines": [
+                401,
+                1136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1140,
+            "Src Column": 2,
+            "Lines": [
+                408
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1141,
+            "Src Column": 2,
+            "Lines": [
+                401,
+                1136
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1144,
+            "Src Column": 3,
+            "Lines": [
+                1143
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 1147,
+            "Src Column": 3,
+            "Lines": [
+                1146
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 366,
+            "Src Column": 15,
+            "Lines": [
+                0,
+                349
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 368,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 375,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 396,
+            "Src Column": 4,
+            "Lines": [
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 414,
+            "Src Column": 31,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 396,
+            "Src Column": 4,
+            "Lines": [
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 375,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 375,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "list_file",
+            "IsLeaf": false,
+            "Src Line": 375,
+            "Src Column": 4,
+            "Lines": [
+                0,
+                373
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 541,
+            "Src Column": 2,
+            "Lines": [
+                -2,
+                464
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 542,
+            "Src Column": 6,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 543,
+            "Src Column": 3,
+            "Lines": [
+                -3,
+                464,
+                541,
+                542
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 552,
+            "Src Column": 6,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 555,
+            "Src Column": 5,
+            "Lines": [
+                -3,
+                552
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 564,
+            "Src Column": 5,
+            "Lines": [
+                -3,
+                552
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 576,
+            "Src Column": 8,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 577,
+            "Src Column": 4,
+            "Lines": [
+                -3,
+                552
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 590,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 599,
+            "Src Column": 29,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 612,
+            "Src Column": 6,
+            "Lines": [
+                -1,
+                448
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 619,
+            "Src Column": 26,
+            "Lines": [
+                -1,
+                452
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 620,
+            "Src Column": 6,
+            "Lines": [
+                -1,
+                448
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 448,
+            "Src Column": 24,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 448,
+            "Src Column": 24,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 452,
+            "Src Column": 33,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 456,
+            "Src Column": 6,
+            "Lines": [
+                451
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 16,
+            "Lines": [
+                -1,
+                448
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 2,
+            "Lines": [
+                -1,
+                448
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 466,
+            "Src Column": 2,
+            "Lines": [
+                451,
+                456
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 476,
+            "Src Column": 30,
+            "Lines": [
+                0
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 494,
+            "Src Column": 2,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 496,
+            "Src Column": 2,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 498,
+            "Src Column": 2,
+            "Lines": [
+                -2
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 503,
+            "Src Column": 2,
+            "Lines": [
+                -3
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 503,
+            "Src Column": 2,
+            "Lines": [
+                -3,
+                494,
+                496
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 508,
+            "Src Column": 4,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 516,
+            "Src Column": 7,
+            "Lines": [
+                496
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 518,
+            "Src Column": 9,
+            "Lines": [
+                -1
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 536,
+            "Src Column": 21,
+            "Lines": [
+                466
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 536,
+            "Src Column": 2,
+            "Lines": [
+                -2,
+                466
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 537,
+            "Src Column": 25,
+            "Lines": [
+                494
+            ]
+        },
+        {
+            "File": "/mnt/data/sfu/cp_task/xz/src/xz/list.c",
+            "Function": "parse_details",
+            "IsLeaf": false,
+            "Src Line": 537,
+            "Src Column": 2,
+            "Lines": [
+                -2,
+                494
+            ]
+        }
+    ]
+}

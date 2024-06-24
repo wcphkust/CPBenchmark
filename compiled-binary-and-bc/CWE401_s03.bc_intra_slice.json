@@ -1,0 +1,1589 @@
+{
+    "Intra slices": [
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_42.c",
+            "Function": "badSource",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_42.c",
+            "Function": "badSource",
+            "IsLeaf": false,
+            "Src Line": 30,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_42.c",
+            "Function": "goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 77,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_42.c",
+            "Function": "goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b_badSource",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b_badSource",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b_goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 72,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__struct_twoIntsStruct_realloc_61b_goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_42.c",
+            "Function": "badSource953",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_42.c",
+            "Function": "badSource953",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_42.c",
+            "Function": "goodB2GSource957",
+            "IsLeaf": false,
+            "Src Line": 91,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_42.c",
+            "Function": "goodB2GSource957",
+            "IsLeaf": false,
+            "Src Line": 90,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_83_goodB2G.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8352CWE401_Memory_Leak__twoIntsStruct_realloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_83_goodB2G.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8352CWE401_Memory_Leak__twoIntsStruct_realloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8454CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8454CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_83_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8347CWE401_Memory_Leak__twoIntsStruct_malloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_83_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8347CWE401_Memory_Leak__twoIntsStruct_malloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8354CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8354CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_83_bad.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8348CWE401_Memory_Leak__twoIntsStruct_realloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_83_bad.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8348CWE401_Memory_Leak__twoIntsStruct_realloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_84_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8447CWE401_Memory_Leak__twoIntsStruct_malloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_84_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8447CWE401_Memory_Leak__twoIntsStruct_malloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "printBytesLine",
+            "IsLeaf": true,
+            "Src Line": 97,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexChars",
+            "IsLeaf": true,
+            "Src Line": 113,
+            "Src Column": 37,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexChars",
+            "IsLeaf": true,
+            "Src Line": 113,
+            "Src Column": 37,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/io.c",
+            "Function": "decodeHexWChars",
+            "IsLeaf": true,
+            "Src Line": 135,
+            "Src Column": 47,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 64,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 65,
+            "Src Column": 5,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcasesupport/std_thread.c",
+            "Function": "stdThreadCreate",
+            "IsLeaf": false,
+            "Src Line": 86,
+            "Src Column": 5,
+            "Slice": [
+                -2
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__twoIntsStruct_realloc_61b_badSource",
+            "IsLeaf": false,
+            "Src Line": 30,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__twoIntsStruct_realloc_61b_badSource",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__twoIntsStruct_realloc_61b_goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 59,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_61b.c",
+            "Function": "CWE401_Memory_Leak__twoIntsStruct_realloc_61b_goodB2GSource",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 37,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 38,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 39,
+            "Src Column": 27,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 43,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 44,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_bad.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0115BadDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 44,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_83_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8351CWE401_Memory_Leak__twoIntsStruct_calloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_83_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8351CWE401_Memory_Leak__twoIntsStruct_calloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_84_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8447CWE401_Memory_Leak__twoIntsStruct_calloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_84_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8447CWE401_Memory_Leak__twoIntsStruct_calloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_goodB2G.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8459CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_goodB2G.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8459CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8358CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8358CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8354CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8354CWE401_Memory_Leak__struct_twoIntsStruct_malloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_62b.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_83_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8351CWE401_Memory_Leak__twoIntsStruct_malloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_83_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8351CWE401_Memory_Leak__twoIntsStruct_malloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 36,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 37,
+            "Src Column": 24,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 38,
+            "Src Column": 27,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 42,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 43,
+            "Src Column": 19,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__virtual_destructor_01_good1.cpp",
+            "Function": "_ZN41CWE401_Memory_Leak__virtual_destructor_0116GoodDerivedClassC2EPKc",
+            "IsLeaf": false,
+            "Src Line": 43,
+            "Src Column": 17,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_84_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8451CWE401_Memory_Leak__twoIntsStruct_malloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_malloc_84_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_malloc_8451CWE401_Memory_Leak__twoIntsStruct_malloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/list.tcc",
+            "Function": "_ZNSt7__cxx1110_List_baseIP14_twoIntsStructSaIS2_EE8_M_clearEv",
+            "IsLeaf": false,
+            "Src Line": 73,
+            "Src Column": 12,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP14_twoIntsStructE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 32,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/ext/new_allocator.h",
+            "Function": "_ZN9__gnu_cxx13new_allocatorIP14_twoIntsStructE9constructEPS2_RKS2_",
+            "IsLeaf": true,
+            "Src Line": 146,
+            "Src Column": 9,
+            "Slice": [
+                -2,
+                -1
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP14_twoIntsStructSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 463,
+            "Src Column": 18,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/vector.tcc",
+            "Function": "_ZNSt6vectorIP14_twoIntsStructSaIS1_EE14_M_fill_insertEN9__gnu_cxx17__normal_iteratorIPS1_S3_EEmRKS1_",
+            "IsLeaf": false,
+            "Src Line": 464,
+            "Src Column": 6,
+            "Slice": [
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP14_twoIntsStructSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_vector.h",
+            "Function": "_ZNKSt6vectorIP14_twoIntsStructSaIS1_EE12_M_check_lenEmPKc",
+            "IsLeaf": false,
+            "Src Line": 1507,
+            "Src Column": 35,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt10__fill_n_aIPP14_twoIntsStructmS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT1_EE7__valueET_E6__typeES6_T0_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 754,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_algobase.h",
+            "Function": "_ZSt8__fill_aIPP14_twoIntsStructS1_EN9__gnu_cxx11__enable_ifIXsr11__is_scalarIT0_EE7__valueEvE6__typeET_S8_RKS5_",
+            "IsLeaf": true,
+            "Src Line": 696,
+            "Src Column": 2,
+            "Slice": [
+                -2,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_84_bad.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8448CWE401_Memory_Leak__twoIntsStruct_realloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_84_bad.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8448CWE401_Memory_Leak__twoIntsStruct_realloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_83_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8347CWE401_Memory_Leak__twoIntsStruct_calloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_83_bad.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8347CWE401_Memory_Leak__twoIntsStruct_calloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8458CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8458CWE401_Memory_Leak__struct_twoIntsStruct_calloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE17_M_insert_unique_INSA_11_Alloc_nodeEEESt17_Rb_tree_iteratorIS4_ESt23_Rb_tree_const_iteratorIS4_ERKS4_RT_",
+            "IsLeaf": false,
+            "Src Line": 2204,
+            "Src Column": 9,
+            "Slice": [
+                -3,
+                -2,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS1_",
+            "IsLeaf": false,
+            "Src Line": 2146,
+            "Src Column": 51,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2037,
+            "Src Column": 4,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2045,
+            "Src Column": 6,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE24_M_get_insert_unique_posERS1_",
+            "IsLeaf": false,
+            "Src Line": 2050,
+            "Src Column": 2,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_84_goodB2G.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8452CWE401_Memory_Leak__twoIntsStruct_realloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_realloc_84_goodB2G.cpp",
+            "Function": "_ZN44CWE401_Memory_Leak__twoIntsStruct_realloc_8452CWE401_Memory_Leak__twoIntsStruct_realloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EEC2ERKSA_",
+            "IsLeaf": false,
+            "Src Line": 924,
+            "Src Column": 4,
+            "Slice": [
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_maximumEPS_",
+            "IsLeaf": true,
+            "Src Line": 128,
+            "Src Column": 40,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_maximumEPS_",
+            "IsLeaf": true,
+            "Src Line": 128,
+            "Src Column": 14,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_minimumEPS_",
+            "IsLeaf": true,
+            "Src Line": 114,
+            "Src Column": 14,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt18_Rb_tree_node_base10_S_minimumEPS_",
+            "IsLeaf": true,
+            "Src Line": 114,
+            "Src Column": 39,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1824,
+            "Src Column": 8,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1831,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1832,
+            "Src Column": 3,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1833,
+            "Src Column": 7,
+            "Slice": [
+                -1
+            ]
+        },
+        {
+            "File": "/usr/include/c++/7.5.0/bits/stl_tree.h",
+            "Function": "_ZNSt8_Rb_treeIiSt4pairIKiP14_twoIntsStructESt10_Select1stIS4_ESt4lessIiESaIS4_EE7_M_copyINSA_11_Alloc_nodeEEEPSt13_Rb_tree_nodeIS4_EPKSE_PSt18_Rb_tree_node_baseRT_",
+            "IsLeaf": false,
+            "Src Line": 1834,
+            "Src Column": 5,
+            "Slice": [
+                -3,
+                -1,
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8458CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8458CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_629badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 60,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_62b.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_6213goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 61,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8358CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_goodB2G.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_8358CWE401_Memory_Leak__struct_twoIntsStruct_calloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_bad.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8355CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_bad.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8355CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_84_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8451CWE401_Memory_Leak__twoIntsStruct_calloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__twoIntsStruct_calloc_84_goodB2G.cpp",
+            "Function": "_ZN43CWE401_Memory_Leak__twoIntsStruct_calloc_8451CWE401_Memory_Leak__twoIntsStruct_calloc_84_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8454CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_bad.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_malloc_8454CWE401_Memory_Leak__struct_twoIntsStruct_malloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 33,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43L9badSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 34,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 78,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43.cpp",
+            "Function": "_ZN50CWE401_Memory_Leak__struct_twoIntsStruct_calloc_43L13goodB2GSourceERP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 79,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_bad.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8455CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_bad.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8455CWE401_Memory_Leak__struct_twoIntsStruct_realloc_84_badC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_goodB2G.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8359CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 31,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        },
+        {
+            "File": "/root/lift-test/Juliet/testcases/CWE401_Memory_Leak/s03/CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_goodB2G.cpp",
+            "Function": "_ZN51CWE401_Memory_Leak__struct_twoIntsStruct_realloc_8359CWE401_Memory_Leak__struct_twoIntsStruct_realloc_83_goodB2GC2EP14_twoIntsStruct",
+            "IsLeaf": false,
+            "Src Line": 32,
+            "Src Column": 5,
+            "Slice": [
+                0
+            ]
+        }
+    ]
+}
